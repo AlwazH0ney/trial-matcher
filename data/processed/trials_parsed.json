@@ -1,0 +1,438 @@
+[
+  {
+    "nct_id": "NCT03600883",
+    "title": "Sotorasib in Advanced Solid Tumors With KRAS G12C Mutation (CodeBreaK 100)",
+    "official_title": "A Phase 1/2, Study Evaluating the Safety, Tolerability, PK, and Efficacy of AMG 510 in Subjects With Solid Tumors With a Specific KRAS Mutation",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Advanced Solid Tumors",
+      "Non-Small Cell Lung Cancer",
+      "Colorectal Cancer",
+      "KRAS G12C"
+    ],
+    "interventions": [
+      {
+        "type": "DRUG",
+        "name": "Sotorasib (AMG 510)"
+      }
+    ],
+    "min_age": "18 Years",
+    "max_age": "N/A",
+    "sex": "ALL",
+    "healthy_volunteers": false,
+    "countries": [
+      "Australia",
+      "United States"
+    ],
+    "n_criteria": 17,
+    "criteria": [
+      {
+        "kind": "inclusion",
+        "idx": 0,
+        "text": "Subject has provided informed consent prior to initiation of any study specific activities/procedures.",
+        "features": {}
+      },
+      {
+        "kind": "inclusion",
+        "idx": 1,
+        "text": "Male or female, aged >=18 years.",
+        "features": {
+          "min_age_years": 18
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 2,
+        "text": "Pathologically documented, locally-advanced or metastatic malignancy with KRAS p.G12C mutation identified through molecular testing.",
+        "features": {
+          "biomarkers": [
+            "KRAS"
+          ],
+          "mutations": [
+            "G12C"
+          ]
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 3,
+        "text": "Subjects with active brain metastases from non-brain tumors are eligible if they have been treated and are without evidence of progression or hemorrhage for at least 4 weeks. Anticonvulsants and steroids are allowed if being administered at stable doses for at least 30 days before study day 1.",
+        "features": {
+          "mentions_brain_mets": true
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 4,
+        "text": "Measurable disease per Response Evaluation Criteria in Solid Tumors 1.1 (RECIST 1.1) criteria.",
+        "features": {}
+      },
+      {
+        "kind": "inclusion",
+        "idx": 5,
+        "text": "Eastern Cooperative Oncology Group (ECOG) Performance Status of <=2.",
+        "features": {
+          "ecog_max": 2
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 6,
+        "text": "Life expectancy of >3 months, in the opinion of the investigator.",
+        "features": {}
+      },
+      {
+        "kind": "inclusion",
+        "idx": 7,
+        "text": "Adequate organ function.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 0,
+        "text": "Active infection requiring systemic therapy.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 1,
+        "text": "Known positive test for human immunodeficiency virus, hepatitis C virus, chronic active hepatitis B infection.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 2,
+        "text": "Myocardial infarction within 6 months of study day 1, symptomatic congestive heart failure (New York Heart Association > class II), unstable angina, or unstable cardiac arrhythmia requiring medication.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 3,
+        "text": "Gastrointestinal (GI) tract disease causing the inability to take oral medication, malabsorption syndrome, requirement for intravenous alimentation, uncontrolled inflammatory GI disease.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 4,
+        "text": "Prior therapy with a direct and selective KRAS G12C inhibitor.",
+        "features": {
+          "biomarkers": [
+            "KRAS"
+          ],
+          "mutations": [
+            "G12C"
+          ],
+          "prior_therapy_relevant": true
+        }
+      },
+      {
+        "kind": "exclusion",
+        "idx": 5,
+        "text": "Anti-tumor therapy within 28 days of study day 1.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 6,
+        "text": "Therapeutic or palliative radiation therapy within 4 weeks of study day 1.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 7,
+        "text": "Currently receiving treatment in another investigational device or drug study.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 8,
+        "text": "Female subjects of childbearing potential unwilling to use an acceptable method(s) of effective contraception during treatment.",
+        "features": {}
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT04303780",
+    "title": "Adagrasib in Previously Treated Patients With NSCLC and KRAS G12C Mutation (KRYSTAL-1)",
+    "official_title": "Phase 1/2 Study of MRTX849 in Patients With Cancer Having a KRAS G12C Mutation",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Non-Small Cell Lung Cancer",
+      "Colorectal Cancer",
+      "KRAS G12C Mutation"
+    ],
+    "interventions": [
+      {
+        "type": "DRUG",
+        "name": "Adagrasib (MRTX849)"
+      },
+      {
+        "type": "DRUG",
+        "name": "Adagrasib + Pembrolizumab"
+      }
+    ],
+    "min_age": "18 Years",
+    "max_age": "N/A",
+    "sex": "ALL",
+    "healthy_volunteers": false,
+    "countries": [
+      "Australia",
+      "United States"
+    ],
+    "n_criteria": 13,
+    "criteria": [
+      {
+        "kind": "inclusion",
+        "idx": 0,
+        "text": "Histologically confirmed diagnosis of unresectable or metastatic NSCLC.",
+        "features": {}
+      },
+      {
+        "kind": "inclusion",
+        "idx": 1,
+        "text": "Presence of KRAS G12C mutation in tumor tissue.",
+        "features": {
+          "biomarkers": [
+            "KRAS"
+          ],
+          "mutations": [
+            "G12C"
+          ]
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 2,
+        "text": "Prior treatment with at least one systemic anti-cancer therapy for advanced disease including an anti-PD-1/PD-L1 antibody (unless contraindicated).",
+        "features": {
+          "biomarkers": [
+            "PD-L1"
+          ],
+          "prior_therapy_relevant": true
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 3,
+        "text": "Adequate organ function.",
+        "features": {}
+      },
+      {
+        "kind": "inclusion",
+        "idx": 4,
+        "text": "ECOG performance status of 0 or 1.",
+        "features": {
+          "ecog_max": 1
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 5,
+        "text": "Life expectancy of at least 3 months.",
+        "features": {}
+      },
+      {
+        "kind": "inclusion",
+        "idx": 6,
+        "text": "Age >= 18 years.",
+        "features": {
+          "min_age_years": 18
+        }
+      },
+      {
+        "kind": "exclusion",
+        "idx": 0,
+        "text": "Active brain metastases (patients with treated, stable brain metastases are eligible).",
+        "features": {
+          "mentions_brain_mets": true
+        }
+      },
+      {
+        "kind": "exclusion",
+        "idx": 1,
+        "text": "Prior treatment with a KRAS G12C-specific inhibitor.",
+        "features": {
+          "biomarkers": [
+            "KRAS"
+          ],
+          "mutations": [
+            "G12C"
+          ],
+          "prior_therapy_relevant": true
+        }
+      },
+      {
+        "kind": "exclusion",
+        "idx": 2,
+        "text": "Recent major surgery within 4 weeks.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 3,
+        "text": "History of intestinal disease or major gastric surgery that would impair drug absorption.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 4,
+        "text": "Serious cardiac illness including congestive heart failure NYHA class III or IV.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 5,
+        "text": "Pregnant or breastfeeding.",
+        "features": {}
+      }
+    ]
+  },
+  {
+    "nct_id": "NCT03778229",
+    "title": "Osimertinib in EGFR-Mutant NSCLC With Acquired Resistance",
+    "official_title": "A Phase II Study of Osimertinib Continuation Beyond Progression in EGFR Mutation Positive Non-Small Cell Lung Cancer",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE2"
+    ],
+    "study_type": "INTERVENTIONAL",
+    "conditions": [
+      "Non-Small Cell Lung Cancer",
+      "EGFR Mutation"
+    ],
+    "interventions": [
+      {
+        "type": "DRUG",
+        "name": "Osimertinib"
+      }
+    ],
+    "min_age": "18 Years",
+    "max_age": "N/A",
+    "sex": "ALL",
+    "healthy_volunteers": false,
+    "countries": [
+      "United States"
+    ],
+    "n_criteria": 13,
+    "criteria": [
+      {
+        "kind": "inclusion",
+        "idx": 0,
+        "text": "Histologically or cytologically confirmed NSCLC.",
+        "features": {}
+      },
+      {
+        "kind": "inclusion",
+        "idx": 1,
+        "text": "Documented EGFR mutation known to be associated with EGFR TKI sensitivity (including exon 19 deletion, L858R, T790M).",
+        "features": {
+          "biomarkers": [
+            "EGFR"
+          ],
+          "mutations": [
+            "T790M",
+            "EXON 19 DELETION",
+            "L858R"
+          ]
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 2,
+        "text": "Prior treatment with a first- or second-generation EGFR TKI.",
+        "features": {
+          "biomarkers": [
+            "EGFR"
+          ],
+          "prior_therapy_relevant": true
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 3,
+        "text": "Radiographic progression on prior EGFR TKI therapy.",
+        "features": {
+          "biomarkers": [
+            "EGFR"
+          ],
+          "prior_therapy_relevant": true
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 4,
+        "text": "Age >= 18 years.",
+        "features": {
+          "min_age_years": 18
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 5,
+        "text": "ECOG performance status 0-2.",
+        "features": {
+          "ecog_max": 2
+        }
+      },
+      {
+        "kind": "inclusion",
+        "idx": 6,
+        "text": "Measurable disease per RECIST v1.1.",
+        "features": {}
+      },
+      {
+        "kind": "inclusion",
+        "idx": 7,
+        "text": "Adequate hematologic, hepatic, and renal function.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 0,
+        "text": "Symptomatic CNS metastases requiring immediate local therapy.",
+        "features": {
+          "mentions_brain_mets": true
+        }
+      },
+      {
+        "kind": "exclusion",
+        "idx": 1,
+        "text": "Interstitial lung disease or pneumonitis.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 2,
+        "text": "Prior treatment with osimertinib or other third-generation EGFR TKI.",
+        "features": {
+          "biomarkers": [
+            "EGFR"
+          ],
+          "prior_therapy_relevant": true
+        }
+      },
+      {
+        "kind": "exclusion",
+        "idx": 3,
+        "text": "Concurrent malignancy requiring active therapy.",
+        "features": {}
+      },
+      {
+        "kind": "exclusion",
+        "idx": 4,
+        "text": "Serious cardiac disease including QTc > 470 ms.",
+        "features": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,5313 @@
+[
+ {
+  "nct_id": "NCT06830694",
+  "title": "Clinical Trial for Safety and Effectiveness Evaluation of Tarlatamab (AMG757) With Etoposide, Carboplatin and Atezolizumab in Transformed Small Cell Lung Cancer Patients From Adenocarcinoma After EGFR TKI Treatment",
+  "official_title": "Clinical Trial for Safety and Effectiveness Evaluation of Tarlatamab (AMG757) With Etoposide, Carboplatin and Atezolizumab in Transformed Small Cell Lung Cancer Patients From Adenocarcinoma After EGFR TKI Treatment: Phase II Multicenter Clinical Trial",
+  "conditions": [
+   "Small Cell Carcinoma of Lung"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Atezolizumab, Etoposide, Carboplatin, Tarlatamab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07824583",
+  "title": "A Study Evaluating a New Radiation Treatment Workflow (NGDS)",
+  "official_title": "A ProSPEctivE Study of NGDS DMAT Workflow Feasibility",
+  "conditions": [
+   "Lung Cancer (Diagnosis)",
+   "Liver Cancer, Adult",
+   "Pancreatic Cancer",
+   "Thoracic Cancers",
+   "Abdominal Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DEVICE",
+    "name": "Next Generation Delivery System (NGDS)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06721286",
+  "title": "Toripalimab Combined With Gemcitabine and Cisplatin (GemCis) as Preoperative Neoadjuvant Therapy for Resectable Intrahepatic Cholangiocarcinoma",
+  "official_title": "Toripalimab Combined With Gemcitabine and Cisplatin (GemCis) as Preoperative Neoadjuvant Therapy for Resectable Intrahepatic Cholangiocarcinoma (ICC) With High Risk of Recurrence, Phase II, Single-center, Randomized Controlled Trial",
+  "conditions": [
+   "Intrahepatic Cholangiocarcinoma (Icc)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Teripalimab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Gemcitabine + Cisplatin"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Surgery"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06971848",
+  "title": "Evaluation of Skin Tests in Biotherapy Allergies",
+  "official_title": "Evaluation of Skin Tests in Biotherapy Allergies",
+  "conditions": [
+   "Locally Advanced Cutaneous Squamous Cell Carcinoma of the Head and Neck",
+   "Melanoma Neoplasms",
+   "Small Cell Bronchial Carcinomas",
+   "Bronchial Carcinoma",
+   "Pleural Mesothelioma",
+   "Hodgkin&#39;s Lymphoma",
+   "Chronic Lymphocytic Leukemia",
+   "Follicular Lymphoma",
+   "Myeloma",
+   "AL Amyloidosis",
+   "Hepatocarcinoma",
+   "Colorectal Cancer",
+   "Esophageal Squamous Cell Carcinoma",
+   "Heart Cancer",
+   "Cholangiocarcinoma",
+   "Colorectal Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Drug skin tests (investigating hypersensitivity to a biotherapy)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05286814",
+  "title": "PDS01ADC in Combination With Hepatic Artery Infusion Pump (HAIP) and Systemic Therapy for Subjects With Metastatic Colorectal Cancer, Intrahepatic Cholangiocarcinoma, or Metastatic Adrenocortical Carcinoma",
+  "official_title": "Phase II Study Evaluating the Efficacy of PDS01ADC in Combination With Hepatic Artery Infusion Pump (HAIP) and Systemic Therapy for Subjects With Metastatic Colorectal Cancer, Intrahepatic Cholangiocarcinoma, or Metastatic Adrenocortical Carcinoma",
+  "conditions": [
+   "Metastatic Colorectal Cancer (Mcrc)",
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "Intrahepatic Bile Duct Cancer",
+   "Colorectal Neoplasms",
+   "Colorectal Cancer",
+   "Cholangiocarcinoma",
+   "Bile Duct Neoplasms",
+   "Bile Duct Cancer",
+   "Adrenocortical Carcinoma (ACC)",
+   "Adrenal Cortical Carcinoma",
+   "Adrenal Gland Cancer",
+   "Adrenal Gland Neoplasms",
+   "Adrenal Cortex Neoplasms"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Dexamethasone"
+   },
+   {
+    "type": "DRUG",
+    "name": "PDS01ADC"
+   },
+   {
+    "type": "DEVICE",
+    "name": "Intera 3000 Hepatic Artery Infusion Pump (HAIP)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Floxuridine"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06792552",
+  "title": "A Phase I Study of SIM0505 in Participants With Advanced Solid Tumors",
+  "official_title": "A Phase I First-in-human, Open-label, Multicenter Study to Investigate the Safety, Tolerability, Pharmacokinetics and Preliminary Antitumor Activity of SIM0505 in Adult Participants With Advanced Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumors",
+   "Platinum Resistant Ovarian Cancer",
+   "Fallopian Tube Cancer",
+   "Renal Cell Carcinoma (RCC)",
+   "Papillary Renal Cell Carcinoma (Prcc)",
+   "Uterine Serous Carcinoma (USC)",
+   "NSCLC (Non-small Cell Lung Cancer)",
+   "Primary Peritoneal Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "SIM0505 for injection"
+   },
+   {
+    "type": "DRUG",
+    "name": "SIM0505 for injection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07192991",
+  "title": "Neuroendocrine Carcinomas: Patient Journey And Treatment Outcomes In Latin America",
+  "official_title": "Neuroendocrine Carcinomas: Patient Journey And Treatment Outcomes In Latin America",
+  "conditions": [
+   "Neuroendocrine Carcinomas",
+   "Lung Neuroendocrine Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Observational study"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06562192",
+  "title": "Phase I Study of [177Lu]Lu-NNS309 in Patients With Pancreatic, Lung, Breast and Colorectal Cancers",
+  "official_title": "Phase I Open-label, Multi-center Study to Evaluate the Safety, Tolerability, Dosimetry, and Preliminary Activity of [177Lu]Lu-NNS309 in Patients With Pancreatic, Lung, Breast and Colorectal Cancers",
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Non-small Cell Lung Cancer",
+   "HR+/HER2- Ductal and Lobular Breast Cancer",
+   "Triple Negative Breast Cancer",
+   "Colorectal Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "[68Ga]Ga-NNS309"
+   },
+   {
+    "type": "DRUG",
+    "name": "[177Lu]Lu-NNS309"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06528847",
+  "title": "Adjuvant Benmelstobart for Stage IB, Grade 3 Invasive Lung Adenocarcinoma",
+  "official_title": "Benmelstobart (TQB2450) for Adjuvant Therapy in Pathologic Stage IB, IASLC Grade 3 Invasive Lung Adenocarcinomas: A Prospective, Single-arm, Phase 2 Clinical Trial",
+  "conditions": [
+   "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Benmelstobart"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06999187",
+  "title": "A Study of DR-0202 in Patients With Locally Advanced or Metastatic, Relapsed or Refractory Carcinomas",
+  "official_title": "A Phase 1a/1b, Multicenter, Open-label, Dose Escalation/Expansion, Multiple-dose Study to Evaluate the Safety and Activity of DR-0202 in Patients With Locally Advanced or Metastatic, Relapsed or Refractory Carcinomas",
+  "conditions": [
+   "Triple Negative Breast Cancer",
+   "HER2-negative Breast Cancer",
+   "Non Small Cell Lung Cancer",
+   "Cervical Cancer",
+   "Castrate Resistant Prostate Cancer",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Head-and-neck Squamous Cell Carcinoma",
+   "Endometrial Cancer",
+   "Ovarian Cancer",
+   "Gastric Cancer",
+   "Gastroesophageal-junction Cancer",
+   "Urothelial Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "DR-0202"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07164313",
+  "title": "A Study of ZW251 in Participants With Advanced Solid Tumors",
+  "official_title": "A First-In-Human, Phase 1, Open-Label, Multicenter Study of ZW251, a Novel Glypican-3 Targeting Antibody-Drug Conjugate, in Participants With Advanced Solid Tumors, Including Hepatocellular Carcinoma",
+  "conditions": [
+   "Hepatocellular Carcinoma",
+   "Squamous Cell Non-Small Cell Lung Cancer",
+   "Germ Cell Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ZW251"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05363280",
+  "title": "Phase 2 Study for the Patient, Who Has Diagnosed With Small Cell Lung Cancer (SCLC) or Non Small Cell Lung Cancer (NSCLC) or Renal Cell Carcinoma (RCC) and Finished the First Line Stand Treatment , Need More Treatment",
+  "official_title": "A Phase 2 Evaluation of the Safety and Efficacy of Veonetinib (AL8326) in \u22652nd Line Small Cell Lung Cancer (SCLC), Non Small Cell Lung Cancer (NSCLC) and Renal Cell Carcinoma (RCC) Treatment",
+  "conditions": [
+   "Small Cell Lung Cancer",
+   "Renal Cell Carcinoma (RCC)",
+   "Non-Small Cell Lung"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "AL8326 40 mg"
+   },
+   {
+    "type": "DRUG",
+    "name": "AL8326 60 mg"
+   },
+   {
+    "type": "DRUG",
+    "name": "AL8326 80 mg--stopped"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05150691",
+  "title": "A Phase 1/2a Study of DB-1303/BNT323 in Advanced/Metastatic Solid Tumors",
+  "official_title": "A Phase 1/2a, Multicenter, Open-Label, First in Human Study to Assess the Safety, Tolerability, Pharmacokinetics, and Preliminary Antitumor Activity of DB-1303/BNT323 in Patients With Advanced/Metastatic Solid Tumors",
+  "conditions": [
+   "HER2-positive Advanced Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "DB-1303/BNT323"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pertuzumab Injection"
+   },
+   {
+    "type": "DRUG",
+    "name": "Ritonavir"
+   },
+   {
+    "type": "DRUG",
+    "name": "Itraconazole"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06472388",
+  "title": "Everolimus 5 mg vs 10 mg/Daily for Patients With Neuroendocrine Tumors",
+  "official_title": "Randomized Phase II Trial of Everolimus 5 mg vs 10 mg/Daily for Patients With Advanced Neuroendocrine Tumors",
+  "conditions": [
+   "Neuroendocrine Tumors",
+   "Progression",
+   "Neuroendocrine Tumor Grade 1",
+   "Neuroendocrine Tumor Grade 2",
+   "Neuroendocrine Tumor of Pancreas",
+   "Neuroendocrine Tumor of the Lung",
+   "Neuroendocrine Tumor Carcinoid"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Everolimus 5 MG"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT02133196",
+  "title": "T Cell Receptor Immunotherapy for Patients With Metastatic Non-Small Cell Lung Cancer",
+  "official_title": "A Phase II Study Using Autologous Young Tumor-Infiltrating Lymphocytes Derived From Patients With Non-Small Cell Lung Cancer Following Non-Myeloablative Lymphocyte Depleting Preparative Regimen",
+  "conditions": [
+   "Advanced Non-Small Cell Lung Cancer",
+   "Squamous Cell Carcinoma",
+   "Advanced NSCLC",
+   "Adenosquamous Carcinoma",
+   "Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Aldesleukin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Fludarabine"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cyclophosphamide"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "Young TIL"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06910657",
+  "title": "IDOV-Immune for Advanced Solid Tumors",
+  "official_title": "A First-in-human, Phase I, Multi-center, Open-label, Dose-escalation Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Preliminary Evidence of Antitumor Activity of IDOV-Immune in Adult Participants With Advanced Solid Tumors",
+  "conditions": [
+   "Colorectal Cancer",
+   "Pancreatic Cancer",
+   "Melanoma",
+   "Ovarian Cancer",
+   "Gastric Cancer",
+   "Esophageal Cancer",
+   "Hepatocellular Carcinoma",
+   "Renal Cell Carcinoma",
+   "Breast Cancer",
+   "Sarcoma",
+   "Bladder Cancer",
+   "Lung Cancer",
+   "Prostate Cancer",
+   "Cervical Cancers",
+   "Head and Neck Cancers",
+   "Adrenal Gland Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "IDOV-Immune (oncolytic vaccinia virus)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05706129",
+  "title": "A Study to Assess Safety, Tolerability and Imaging Characteristics of [68Ga]Ga-DPI-4452 and to Assess Safety, Tolerability, and Efficacy of [177Lu]Lu-DPI-4452 in Participants With Unresectable Locally Advanced or Metastatic Solid Tumors",
+  "official_title": "A Multicenter, Open-Label, Non-Randomized Phase 1/2 Study to Assess Safety, Tolerability and Imaging Characteristics of [68Ga]Ga-DPI-4452 and to Assess Safety, Tolerability, and Efficacy of [177Lu]Lu-DPI-4452 in Patients With Unresectable Locally Advanced or Metastatic Solid Tumors",
+  "conditions": [
+   "Clear Cell Renal Cell Cancer (ccRCC)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Colorectal Cancer (CRC)",
+   "Urothelial Carcinoma (UC)",
+   "Indeterminate Renal Mass (IDRM)",
+   "Muscle Invasive Bladder Cancer (MIBC)",
+   "Head and Neck Cancer (H&N)",
+   "Triple Negative Breast Cancer (TNBC)",
+   "Squamous Non-Small Cell Lung Cancer (NSCLC)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "[68Ga]Ga-DPI-4452"
+   },
+   {
+    "type": "DRUG",
+    "name": "[177Lu]Lu-DPI-4452"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07359586",
+  "title": "Laryngopharyngeal Injury After Endotracheal Intubation Under General Anesthesia",
+  "official_title": "Incidence,Perioperative Risk Factors and Prognosis Associated With Laryngopharyngea Injury After Endotracheal Intubation Under General Anesthesia\uff1aA Retrospective Study",
+  "conditions": [
+   "Gastric Cancer",
+   "Hepatic Carcinoma",
+   "Pulmonary Carcinoma",
+   "Pancreatic Carcinoma",
+   "Cholangiocarcinoma",
+   "Thyroid Carcinoma"
+  ],
+  "interventions": []
+ },
+ {
+  "nct_id": "NCT06917079",
+  "title": "BBO-11818 in Adult Subjects With KRAS Mutant Cancer",
+  "official_title": "A Phase 1a/1b Open-Label Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of BBO-11818 in Subjects With Advanced KRAS Mutant Cancers",
+  "conditions": [
+   "Non-Small Cell Lung Cancer",
+   "NSCLC",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "CRC (Colorectal Cancer)",
+   "Metastatic Non-Small Lung Cell Cancer",
+   "Metastatic Colorectal Cancer (CRC)",
+   "KRAS G12A",
+   "KRAS G12C",
+   "KRAS G12D",
+   "KRAS G12S",
+   "KRAS G12V",
+   "Metastatic Pancreatic Ductal Adenocarcinoma",
+   "Advanced Lung Carcinoma",
+   "Solid Tumor, Adult"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BBO-11818"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Platinum chemotherapy (cisplatin or carboplatin)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pemetrexed"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cetuximab"
+   },
+   {
+    "type": "DRUG",
+    "name": "mFOLFOX6"
+   },
+   {
+    "type": "DRUG",
+    "name": "mFOLFOX6"
+   },
+   {
+    "type": "DRUG",
+    "name": "BBO-10203"
+   },
+   {
+    "type": "DRUG",
+    "name": "mFOLFIRINOX"
+   },
+   {
+    "type": "DRUG",
+    "name": "Gemcitabine"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nab-paclitaxel"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05797168",
+  "title": "Phase I/IIa Study of AZD5335 as Monotherapy and Combination Therapy in Participants With Solid Tumors",
+  "official_title": "A Modular Phase I/IIa, Open-label Study to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of Ascending Doses of AZD5335 Monotherapy and in Combination With Anti-cancer Agents in Participants With Solid Tumors",
+  "conditions": [
+   "Ovarian Cancer",
+   "Lung Adenocarcinoma",
+   "Endometrial Cancer",
+   "Lung Squamous Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Torvutatug samrotecan"
+   },
+   {
+    "type": "DRUG",
+    "name": "Saruparib"
+   },
+   {
+    "type": "DRUG",
+    "name": "Bevacizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Carboplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Palacaparib"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06996249",
+  "title": "Prospective Data Collection Initiative on Thoracic Malignancies",
+  "official_title": "Prospective Data Collection Initiative on Thoracic Malignancies - a Prospective Observational Cohort Study",
+  "conditions": [
+   "Lung Cancer",
+   "Thoracic Cancer",
+   "Lung Cancer, Nonsmall Cell",
+   "Adenocarcinoma",
+   "Squamous Cell Carcinoma",
+   "Large Cell Lung Cancer",
+   "Thymus Cancer",
+   "Mesothelioma"
+  ],
+  "interventions": [
+   {
+    "type": "BEHAVIORAL",
+    "name": "Health-related quality of life and treatment outcome questionnaires"
+   },
+   {
+    "type": "GENETIC",
+    "name": "(Tumor) tissue and other biomaterials"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Blood samples"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07624487",
+  "title": "Aumolertinib Combined With Phased Chemotherapy for EGFR L858R Lung Adenocarcinoma",
+  "official_title": "A Phase II Study of Aumolertinib Combined With Phased Chemotherapy for Treatment-Na\u00efve EGFR L858R-Mutated Lung Adenocarcinoma (ACCEL Trial)",
+  "conditions": [
+   "Lung Adenocarcinoma Metastatic"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Aumolertinib combined with phased chemotherapy (pemetrexed and carboplatin)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04969315",
+  "title": "TT-4 and TT-10 as Single Agents and in Combination in Subjects With Advanced Selected Solid Tumors and Pleural Mesothelioma",
+  "official_title": "A Phase 1/1b, Open-Label, First-in-Human Multicenter Study to Assess the Safety, Tolerability, Preliminary Efficacy, Pharmacokinetics, and Pharmacodynamics of Oral TT-10 (an Adenosine 2A Receptor Antagonist), and TT-4 Diacid (an Adenosine 2B Receptor Antagonist), as Single Agents and in Combination in Participants With Advanced Selected Solid Tumors",
+  "conditions": [
+   "Renal Cell Cancer",
+   "Castrate Resistant Prostate Cancer",
+   "Non Small Cell Lung Cancer",
+   "Pleural Mesothelioma Malignant"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "TT-10"
+   },
+   {
+    "type": "DRUG",
+    "name": "TT-4"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06852287",
+  "title": "Phase II Clinical Study of GemOX Hepatic Arterial Infusion Combined with Lenvatinib and Toripalimab for Advanced and Unresectable Intrahepatic Cholangiocarcinoma and Gallbladder Cancer",
+  "official_title": "Phase II Clinical Study of GemOX Hepatic Arterial Infusion Combined with Lenvatinib and Toripalimab for Advanced and Unresectable Intrahepatic Cholangiocarcinoma and Gallbladder Cancer",
+  "conditions": [
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "Gall Bladder Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "chemotherapy with gemcitabine and oxaliplatin; small molecure TKI lenvatinib; immune-checkpoint inhibitor toripalimab."
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06843629",
+  "title": "Clinical Application of PET Imaging Targeting MSLN in Malignant Tumors",
+  "official_title": "Clinical Application of PET Imaging Targeting MSLN in Malignant Tumors",
+  "conditions": [
+   "Ovarian Cancer",
+   "Lung Adenocarcinoma",
+   "Pancreatic Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "Specific positron imaging agents targeting MSLN"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07145255",
+  "title": "Phase 1/2 Dose Finding, Safety and PK Study in Advanced Refractory Solid Tumors",
+  "official_title": "A Multicenter, Open-label Phase 1/2 Dose Finding, Safety, and Pharmacokinetic Study of MBRC-201, an Antibody-drug Conjugate, in Advanced Refractory Solid Tumors",
+  "conditions": [
+   "Prostate Cancer Castration-resistant Prostate Cancer",
+   "Breast Cancer",
+   "Colo-rectal Cancer",
+   "Lung Cancer (Non-Small Cell)",
+   "Pancreas Cancer, Duct Cell Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ADC"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07166601",
+  "title": "M0324 as Monotherapy and in Combination With Pembrolizumab or Chemotherapy in Participants With Selected Advanced Solid Tumors",
+  "official_title": "An Open Label, Multicenter, Phase 1 Study to Evaluate the Safety, Tolerability, and Pharmacokinetic/Pharmacodynamic Profile of M0324, a Bispecific (MUC-1 x CD40) Antibody as Monotherapy, in Combination With Pembrolizumab, and in Combination With Chemotherapy, in Participants With Selected Advanced Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "M0324"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "M0324"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "Pembrolizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "mFOLFIRINOX"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07760012",
+  "title": "68Ga-SorB PET/CT Imaging in Patients With Solid Tumors",
+  "official_title": "A Prospective, Single-Center, Open-Label Exploratory Study of 68Ga-SorB PET/CT Imaging for the Diagnosis of Sortilin-Positive Solid Tumors",
+  "conditions": [
+   "Melanoma (Skin Cancer)",
+   "Hepatocellular Carcinoma",
+   "Lung Cancer",
+   "Breast Cancer",
+   "Pancreatic Cancer",
+   "Ovarian Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "68Ga-SorB PET/CT"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05856981",
+  "title": "Phase 1 Study Evaluating the Safety and PK of ADU-1805 in Advanced Solid Tumors",
+  "official_title": "An Open-Label, Multicenter, Multi-arm Phase 1 Study Evaluating the Safety and Pharmacokinetics of ADU-1805 in Adults With Advanced Solid Tumors",
+  "conditions": [
+   "Solid Tumor, Adult",
+   "Metastatic Solid Tumor",
+   "Refractory Cancer",
+   "CRC, Colorectal Cancer",
+   "RCC, Clear Cell Adenocarcinoma",
+   "NSCLC (Advanced Non-small Cell Lung Cancer)",
+   "Endometrial Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ADU-1805"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07116057",
+  "title": "MOv19-BBz CAR T Cells in FRa+ Cancers",
+  "official_title": "Phase I Clinical Trial of Autologous Folate Receptor-Alpha Redirected T Cells in Patients With FRa+ Cancers",
+  "conditions": [
+   "Metastatic Non Small Cell Lung Cancer",
+   "Recurrent Lung Non-Small Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "MOv19-BBz CAR T cells"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cyclophosphamide/Fludarabine"
+   },
+   {
+    "type": "DEVICE",
+    "name": "FRa Expression Testing"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07479095",
+  "title": "Low-glucose/High-fat Intake Dietary Regimen as a Tool for Empowering Diagnostic Accuracy of 2-[18F]FDG PET/CT in Lepidic-predominant Growth Lung Adenocarcinoma",
+  "official_title": "Low-glucose/High-fat Intake Dietary Regimen as a Tool for Empowering Diagnostic Accuracy of 2-[18F]FDG PET/CT in Lepidic-predominant Growth Lung Adenocarcinoma",
+  "conditions": [
+   "Lepidic-Predominant Lung Adenocarcinoma",
+   "Lung Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "BEHAVIORAL",
+    "name": "Ketogenic diet"
+   },
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "2-[18F]FDG PET/CT"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06031246",
+  "title": "Selective Lymph Node Dissection for cT1N0M0 Invasive NSCLC With CTR>0.5 Located in the Apical Segment (ECTOP-1018)",
+  "official_title": "Selective Lymph Node Dissection for cT1N0M0 Invasive Non-small Cell Lung Cancer With CTR>0.5 Located in the Apical Segment: a Single-arm, Multi-center, Phase III Trial",
+  "conditions": [
+   "Lung Adenocarcinoma",
+   "Lymph Node Metastasis"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Selective Lymph Node Dissection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07391670",
+  "title": "A Phase I Dose Escalation and Dose Expansion Study to Investigate the Pharmacokinetics and Safety of Subcutaneous Durvalumab",
+  "official_title": "A Phase I, Multicentre, Dose Escalation and Dose Expansion Study to Investigate the Pharmacokinetics and Safety of Subcutaneous Durvalumab in Adult Participants With Solid Tumours",
+  "conditions": [
+   "Solid Tumours"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "SC durvalumab + rHu"
+   },
+   {
+    "type": "DRUG",
+    "name": "IV durvalumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Tremelimumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05215548",
+  "title": "Primary Tumor Resection With EGFR TKI for Stage IV NSCLC",
+  "official_title": "A Phase II Study of Primary Tumor Resection for Stage IV Non-small-cell Lung Cancer Without Progression After First-line Epidermal Growth Factor Receptor-tyrosine Kinase Inhibitor",
+  "conditions": [
+   "NSCLC Stage IV"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "therapeutic thoracic surgery"
+   },
+   {
+    "type": "DRUG",
+    "name": "Afatinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05925764",
+  "title": "WSI Based DL for Diagnosing the IASLC Grading System of Lung Adenocarcinoma",
+  "official_title": "Whole Slide Image Based Deep Learning for Diagnosing the International Association for the Study of Lung Cancer Proposed Grading System of Lung Adenocarcinoma",
+  "conditions": [
+   "Lung Adenocarcinoma",
+   "Whole Slide Image",
+   "IASLC Grading System",
+   "Artificial Intelligence"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "Whole Slide Image based Deep Learning"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06764771",
+  "title": "A Study of BMS-986488 as Monotherapy and Combination Therapy in Participants With Advanced Malignant Tumors",
+  "official_title": "A Phase 1/1b Open-label Study of BMS-986488 as Monotherapy and Combination Therapy in Participants With Advanced Malignant Tumors",
+  "conditions": [
+   "Advanced Malignant Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BMS-986488"
+   },
+   {
+    "type": "DRUG",
+    "name": "Adagrasib"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cetuximab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nivolumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04981119",
+  "title": "Solid Tumor Analysis for HLA Loss of Heterozygosity (LOH) and Apheresis for CAR T- Cell Manufacturing",
+  "official_title": "An Observational Study Obtaining Solid Tumor Tissue From Participants and Apheresis for CAR T-Cell Therapy Manufacturing",
+  "conditions": [
+   "Solid Tumor, Adult",
+   "Colorectal Cancer",
+   "Non Small Cell Lung Cancer",
+   "Pancreatic Cancer",
+   "CRC",
+   "NSCLC",
+   "Pancreas Cancer",
+   "Mesothelioma",
+   "Ovarian Cancer",
+   "Ovarian Neoplasms",
+   "Ovarian Carcinoma",
+   "Mesothelioma, Malignant",
+   "Mesothelioma; Lung",
+   "Cancer",
+   "Triple Negative Breast Cancer (TNBC)",
+   "Renal Cell Carcinoma (Kidney Cancer)",
+   "Head and Neck Squamous Cell Carcinoma HNSCC"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Apheresis"
+   },
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "Next Generation Sequencing (NGS)"
+   },
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "Long Range NGS HLA typing"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05669430",
+  "title": "A Study of GV20-0251 Monotherapy and GV20-0251 in Combination With Pembrolizumab in Participants With Solid Tumor Malignancies",
+  "official_title": "An Open-Label Phase 1/2A Study of GV20-0251 Monotherapy and GV20-0251 in Combination With Pembrolizumab in Participants With Advanced and/or Refractory Solid Tumor Malignancies",
+  "conditions": [
+   "Solid Tumor, Adult",
+   "Refractory Cancer",
+   "Endometrial Carcinoma (EC)",
+   "Squamous Head and Neck Carcinoma",
+   "pMMR/MSS Adenocarcinoma of the Colon or Rectum",
+   "Cutaneous Melanoma",
+   "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "GV20-0251"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "GV20-0251"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "GV20-0251 and Pembrolizumab [KEYTRUDA\u00ae]"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "GV20-0251 and Pembrolizumab [KEYTRUDA\u00ae]"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06031181",
+  "title": "Sublobar Resection for Adenocarcinoma in Situ/Minimally Invasive Adenocarcinoma Diagnosed by Intraoperative Frozen Section (ECTOP-1019)",
+  "official_title": "Sublobar Resection for Adenocarcinoma in Situ/Minimally Invasive Adenocarcinoma Diagnosed by Intraoperative Frozen Section: a Single-arm, Multi-center, Phase III Trial",
+  "conditions": [
+   "Lung Adenocarcinoma",
+   "Frozen Section",
+   "Sublobar Resection"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Sublobar Resection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07636785",
+  "title": "A Phase 1 and 2 Study of VMD-102 in Hepatocellular Carcinoma and Other Solid Tumors",
+  "official_title": "A Phase 1 and 2 First-in-human, Open-label, Multicenter Study to Assess the Safety, Tolerability and Preliminary Efficacy of VMD-102 in Participants With Hepatocellular Carcinoma and Other Advanced Solid Tumors",
+  "conditions": [
+   "Hepatocellular Carcinoma (HCC)",
+   "Metastatic Uveal Melanoma",
+   "Renal Cell Carcinoma (RCC)",
+   "Nonsmall Cell Lung Cancer",
+   "Colorectal Cancer (CRC)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "VMD-102"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07275073",
+  "title": "JMT106 Injection in the Treatment of Advanced Solid Tumors",
+  "official_title": "A Phase I Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetic Characteristics, Immunogenicity, and Preliminary Antitumor Activity of JMT106 Injection in Patients With Advanced Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumor",
+   "Lung Squamous Cell Carcinoma",
+   "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "JMT106 Injection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05037825",
+  "title": "The Gut Microbiome and Immune Checkpoint Inhibitor Therapy in Solid Tumors",
+  "official_title": "The Gut Microbiome and Immune Checkpoint Inhibitor Therapy in Solid Tumors",
+  "conditions": [
+   "Non-Small-Cell Lung Carcinoma",
+   "Malignant Melanoma",
+   "Renal Cell Carcinoma",
+   "Triple-Negative Breast Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Checkpoint Inhibitor, Immune"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06427941",
+  "title": "A Phase 1/2 Study of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1/2 Study Investigating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Antitumor Activity of BGB-B2033, Alone or in Combination With Tislelizumab With or Without Bevacizumab, in Participants With Selected Advanced or Metastatic Solid Tumors",
+  "conditions": [
+   "Metastatic Hepatocellular Carcinoma",
+   "Local Advanced Hepatocellular Carcinoma",
+   "Alpha-fetoprotein (AFP)-Producing Gastric Cancer",
+   "Extragonadal Yolk Sac Tumors",
+   "Glypican-3 (GPC3)-Positive Squamous Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BGB-B2033"
+   },
+   {
+    "type": "DRUG",
+    "name": "Tislelizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Bevacizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05873686",
+  "title": "A Phase 1 Clinical Study of NXP900 in Subjects With Advanced Cancers",
+  "official_title": "A Phase 1 Clinical Study of NXP900 in Subjects With Advanced Cancers",
+  "conditions": [
+   "Advanced Solid Tumor",
+   "NSCLC (Non-small Cell Lung Cancer)",
+   "Renal Cancer",
+   "Mesothelioma",
+   "Non-Small Cell Squamous Lung Cancer",
+   "Non-small Cell Lung Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "NXP900"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04510129",
+  "title": "A Multicenter Cancer Biospecimen Collection Study",
+  "official_title": "Predicting Immunotherapy Efficacy from Analysis of Pre-treatment Tumor Biopsies",
+  "conditions": [
+   "Cancer of Head and Neck",
+   "Lung Cancer, Nonsmall Cell",
+   "Small-cell Lung Cancer",
+   "Urothelial Carcinoma",
+   "Gastroesophageal Junction Adenocarcinoma",
+   "Cervical Cancer",
+   "Esophageal Squamous Cell Carcinoma",
+   "Triple Negative Breast Cancer",
+   "Hepatocellular Carcinoma",
+   "Renal Cell Carcinoma",
+   "Colorectal Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "OncoPrism\u2122 assay"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04410302",
+  "title": "Patient-Derived Xenografts to Reduce Cancer Health Disparities",
+  "official_title": "University of California Minority Patient-Derived Xenograft (PDX) Development and Trial Center (UCaMP) to Reduce Cancer Health Disparities",
+  "conditions": [
+   "Bladder Carcinoma",
+   "Gastric Carcinoma",
+   "Liver and Intrahepatic Bile Duct Carcinoma",
+   "Lung Carcinoma",
+   "Malignant Neoplasm"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07340151",
+  "title": "Resection/Synchronous Pulmonary or Hepatic Oligometastatic Pancreatic Ductal Adenocarcinoma",
+  "official_title": "Surgical Resection of Synchronous Pulmonary or Hepatic Oligometastatic Pancreatic Ductal Adenocarcinoma (PHOLIPANC) Following Pre-operative Liposomal Irinotecan Combined With Oxaliplatin and 5-Fluoracil/Folinic Acid (NALIRIFOX): A Phase II Open-Label Single Arm Trial",
+  "conditions": [
+   "Adenocarcinoma of the Pancreas"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Surgical resection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05176483",
+  "title": "Study of Zanzalintinib in Combination With Immuno-Oncology or Other Agents in Participants With Solid Tumors",
+  "official_title": "A Dose-Escalation and Expansion Study of the Safety and Efficacy of XL092 in Combination With Immuno-Oncology or Other Agents in Subjects With Unresectable Advanced or Metastatic Solid Tumors",
+  "conditions": [
+   "Renal Cell Carcinoma (RCC)",
+   "Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+   "Urothelial Carcinoma (UC)",
+   "Solid Tumor",
+   "Hepatocellular Carcinoma (HCC)",
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (CRC)",
+   "Head and Neck Squamous Cell Carcinoma (HNSCC)",
+   "Clear Cell Renal Cell Carcinoma (ccRCC)",
+   "Non-Clear Cell Renal Cell Carcinoma (nccRCC)",
+   "Drug-Drug Interaction (DDI)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Zanzalintinib"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nivolumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Ipilimumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nivolumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nivolumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nivolumab + Relatlimab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Prednisone"
+   },
+   {
+    "type": "DRUG",
+    "name": "Docetaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "DDI Probe Cocktail"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07261631",
+  "title": "Phase I Study of [177Lu]Lu-DFC413 in Patients With Solid Tumors",
+  "official_title": "A Phase I Open-label, Multi-center Study to Evaluate the Safety, Tolerability, Dosimetry, and Preliminary Activity of [177Lu]Lu-DFC413 and Safety and Imaging Properties of [68Ga]Ga-NNS309 in Patients With Solid Tumors",
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Non-Small Cell Lung Cancer",
+   "HR+/HER2- Ductal and Lobular Breast Cancer",
+   "Triple Negative Breast Cancer",
+   "Colorectal Cancer",
+   "Soft Tissue Sarcoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "68Ga-NNS309"
+   },
+   {
+    "type": "DRUG",
+    "name": "177Lu-DFC413"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07314216",
+  "title": "Firmonertinib Combined With Definitive Radiotherapy in Stage III Unresectable EGFR Uncommon Mutant Pulmonary Adenocarcinoma",
+  "official_title": "A Single-Arm, Multicenter, Phase II Clinical Trial of Firmonertinib in Combination With Definitive Radiotherapy for Patients With Stage III Unresectable Pulmonary Adenocarcinoma Harboring Positive EGFR Uncommon Driver Mutations",
+  "conditions": [
+   "NSCLC (Non-small Cell Lung Carcinoma)",
+   "Stage III",
+   "EGFR Uncommon Mutations"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Firmonertinib"
+   },
+   {
+    "type": "RADIATION",
+    "name": "Definitive Thoracic Radiotherapy"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07410494",
+  "title": "Biomarker-Guided Allogeneic Single-Target or Dual-Target CAR-NK Cell Therapy for Advanced Solid Tumors",
+  "official_title": "A Phase 1/2, Open-Label, Biomarker-Driven Study of Allogeneic Donor-Derived CAR-NK Cells With Antigen Selection by Tissue Biopsy and/or Liquid Biopsy Profiling in Participants With Relapsed/Refractory Advanced Solid Tumors (Single-Target vs Dual-Target Strategy)",
+  "conditions": [
+   "Cancer",
+   "Breast Cancer",
+   "Non-Small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (Locally Advanced or Metastatic)",
+   "Prostate Cancer - Recurrent",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Ovarian Cancer",
+   "Glioblastoma",
+   "Melanoma (Skin Cancer)",
+   "Acute Myeloid Leukemia (AML)",
+   "Non Hodgkin Lymphoma",
+   "Multiple Myeloma (MM), Lymphoma, Large B-Cell, Diffuse (DLBCL), Lymphoma",
+   "Liver Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "EB-SELECT Single-Target CAR-NK Cells"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "Dual-Target Antigen-Selected CAR-NK"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06839105",
+  "title": "A Clinical Study to Evaluate the Safety and Tolerability of AWT020 in Patients With Advanced Malignancies",
+  "official_title": "A Phase I Clinical Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of AWT020 Alone and in Combination With Other Antitumor Therapies in Patients With Advanced Malignancies",
+  "conditions": [
+   "Non-Small Cell Lung Cancer, Colorectal Cancer, Renal Cell Carcinoma, Melanoma and Other Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Taxol"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cisplatin or Carboplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pemetrexed"
+   },
+   {
+    "type": "DRUG",
+    "name": "Oxaliplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Capecitabine"
+   },
+   {
+    "type": "DRUG",
+    "name": "Bevacizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Renvastinib"
+   },
+   {
+    "type": "DRUG",
+    "name": "AWT020"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05830058",
+  "title": "Positron Emission Tomography (PET) Guided Stereotactic Body Radiation Therapy for the Treatment of Oligoprogressive Non-small Cell Lung Cancer, Melanoma, and Renal Cell Carcinoma",
+  "official_title": "Phase II Randomized Controlled Trial of Biologically Guided Stereotactic Body Radiation Therapy in Oligoprogressive Non-Small Cell Lung Cancer, Melanoma, and Renal Cell Carcinoma",
+  "conditions": [
+   "Lung Non-Small Cell Carcinoma",
+   "Malignant Solid Neoplasm",
+   "Melanoma",
+   "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Computed Tomography"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Positron Emission Tomography"
+   },
+   {
+    "type": "OTHER",
+    "name": "Questionnaire Administration"
+   },
+   {
+    "type": "RADIATION",
+    "name": "Stereotactic Body Radiation Therapy"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06745830",
+  "title": "Lymph Node Pathologic Grading Strategy",
+  "official_title": "Lymph Node Pathologic Grading Strategy: Under the Backdrop of the IASLC Grading System for Invasive Lung Adenocarcinoma - a Retrospective Cohort Study",
+  "conditions": [
+   "Lung Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "No intervention"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05297734",
+  "title": "Comparative Effectiveness Trial of Two Supportive Cancer Care Delivery Models for Adults With Cancer",
+  "official_title": "Comparative Effectiveness Trial of Two Supportive Cancer Care Delivery Models for Adults With Cancer",
+  "conditions": [
+   "End of Life",
+   "Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Receive technology-based supportive cancer care"
+   },
+   {
+    "type": "BEHAVIORAL",
+    "name": "Receive redesigned team-based supportive cancer care"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06532799",
+  "title": "TIL Therapy Combined With Pembrolizumab for Advanced or Metastatic Refractory Stomach and Esophageal Cancer",
+  "official_title": "Efficacy and Safety of Autologous Tumor-Infiltrating Lymphocytes (TIL) Therapy Combined With Pembrolizumab (Keytruda) Immunotherapy in Patients With Advanced or Metastatic Refractory Stomach and Esophageal Cancer",
+  "conditions": [
+   "Stomach Cancer",
+   "Stomach Cancer Recurrent",
+   "Stomach Cancer, Adenocarcinoma",
+   "Esophageal Cancer",
+   "Esophageal Cancer Metastatic to Bone",
+   "Esophageal Cancer Metastatic to Lung",
+   "Esophageal Cancer Metastatic to Liver"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "Tumor Infiltrating Lymphocytes (TIL)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cyclophosphamid"
+   },
+   {
+    "type": "DRUG",
+    "name": "Fludarabine"
+   },
+   {
+    "type": "DRUG",
+    "name": "Interleukin-2"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07337850",
+  "title": "Prospective Evaluation of 68Ga-FAPI PET in Biliary Cancers",
+  "official_title": "FAP 2: Utility of Gallium-68-Fibroblast Activation Protein Inhibitor (FAPI) PET in Biliary Tract Cancers: A Prospective Study",
+  "conditions": [
+   "Gall Bladder Cancer",
+   "Intrahepatic Cholangiocarcinoma (Icc)"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "gallium-68-Fibroblast Activation Protein Inhibitor"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07557225",
+  "title": "18F-T2 PET/CT Imaging for CAIX Positive Solid Tumors",
+  "official_title": "Evaluation of Diagnostic Value of 18F-T2 PET/ CT Imaging for Tumors Likely to Express High Levels of CAIX",
+  "conditions": [
+   "Clear Cell Renal Cell Cancer (ccRCC)",
+   "Urothelial Carcinoma (UC)",
+   "Colorectal Cancer",
+   "Cervical Cancer",
+   "Ovarian Cancer",
+   "Head and Neck Cancer",
+   "Hepatocellular Carcinoma (HCC)",
+   "Cholangiocarcinoma",
+   "Non Small Cell Lung Cancer",
+   "Small Cell Lung Cancer",
+   "Breast Cancer",
+   "Pancreatic Cancer",
+   "Endometrial Cancer",
+   "Von Hippel Lindau Disease"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "18F-T2 PET/CT"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06582017",
+  "title": "Safety, PK and Efficacy of QXL138AM in Patients With Solid Tumors and Multiple Myeloma",
+  "official_title": "A First-in-human Phase 1a/1b Study to Evaluate Safety and Tolerability of QXL138AM in Patients With Locally Advanced Un-resectable and/or Metastatic Solid Tumors and Multiple Myeloma",
+  "conditions": [
+   "Ovarian Cancer",
+   "Pancreas Cancer",
+   "Urothelial Carcinoma",
+   "Renal Cell Carcinoma",
+   "Hepatocellular Carcinoma",
+   "Gastrointestinal Cancer",
+   "Lung Cancer",
+   "Prostate Cancer",
+   "Breast Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "QXL138AM Injection every 2 weeks by IV Infusion"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06943521",
+  "title": "A Study of MT-4561 in Patients With Various Advanced Solid Tumors",
+  "official_title": "A Phase I/II, Dose-escalation and Dose-optimization Study to Evaluate Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Efficacy of MT-4561 in Patients With Various Advanced Solid Tumors and to Evaluate Effect of MT-4561 on Pharmacokinetics of Oral Midazolam",
+  "conditions": [
+   "Head and Neck Squamous Cell Carcinoma (HNSCC)",
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Esophageal Cancer",
+   "Gastric Cancer",
+   "Biliary Tract Cancer",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Breast Cancer",
+   "Ovarian Cancer",
+   "Cervical Cancer",
+   "Endometrial Cancer",
+   "Prostate Cancer",
+   "Urothelial Carcinoma",
+   "Neuroendocrine Tumor (NET)",
+   "Neuroendocrine Carcinoma (NEC)",
+   "Soft Tissue Sarcoma",
+   "Nuclear Protein in Testis (NUT) Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "MT-4561"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04895709",
+  "title": "A Study of BMS-986340 as Monotherapy and as Combination Therapy in Participants With Advanced Solid Tumors",
+  "official_title": "A Phase 1/2 Study of BMS-986340 as Monotherapy and as Combination Therapy in Participants With Advanced Solid Tumors",
+  "conditions": [
+   "Cervical Cancer",
+   "Gastric/Gastroesophageal Junction Adenocarcinoma",
+   "Microsatellite Stable Colorectal Cancer",
+   "Non-Small-Cell Lung Cancer",
+   "Squamous Cell Carcinoma of Head and Neck",
+   "Carcinoma, Renal Cell",
+   "Urothelial Carcinoma",
+   "Pancreatic Adenocarcinoma",
+   "Melanoma",
+   "Ovarian Neoplasms",
+   "Triple Negative Breast Neoplasms"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BMS-986340"
+   },
+   {
+    "type": "DRUG",
+    "name": "BMS-936558-01"
+   },
+   {
+    "type": "DRUG",
+    "name": "Docetaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pumitamig"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07517198",
+  "title": "Dose Determining Study of EXS74539 (REC-4539) in Participants With Select Solid Tumors",
+  "official_title": "A Phase 1, Multicenter, Open-Label, Dose-Escalation Study to Assess Safety, Tolerability, and Efficacy of EXS74539 as Monotherapy in Participants With Select Solid Tumors",
+  "conditions": [
+   "Solid Tumor",
+   "Small Cell Lung Cancer (SCLC)",
+   "High Grade Neuroendocrine Cancer",
+   "Small Cell Carcinomas of Non-lung Origin",
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Prostate Cancer",
+   "Ovarian Cancer",
+   "Renal Carcinoma (Clear and Non-clear Cell)",
+   "Head and Neck Squamous Cell Carcinoma (HNSCC)",
+   "Hepatic Cancer",
+   "Gastric Cancer",
+   "Triple-negative Breast Cancer (TNBC)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "EXS74539"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07636148",
+  "title": "Registry of Minimally Invasive Cancer Treatment Using Spectral Angio-CT Image Guidance",
+  "official_title": "Prospective Registry of Spectral Angio-CT-Guided Interventional Oncology Procedures in Routine Clinical Practice",
+  "conditions": [
+   "Liver Cancer (Primary and Metastatic)",
+   "Lung Cancer (Diagnosis)",
+   "Bone Cancer Metastatic",
+   "Bone Cancer Tumor",
+   "Kidney Tumors",
+   "Renal Cancer",
+   "Hepatocellular Carcinoma (HCC)",
+   "Renal Cell Carcinoma (Kidney Cancer)",
+   "Renal Cell Carcinoma (RCC)",
+   "Musculoskeletal Cancers",
+   "Musculoskeletal Tumors",
+   "Bone Tumors",
+   "Lung Tumors"
+  ],
+  "interventions": []
+ },
+ {
+  "nct_id": "NCT05267626",
+  "title": "Study of AU-007, A Monoclonal Antibody That Binds to IL-2 and Inhibits IL-2R\u03b1 Binding, in Patients With Unresectable Locally Advanced or Metastatic Cancer",
+  "official_title": "A Phase 1/2, First-in-Human, Open Label, Dose Escalation and Expansion Study of AU-007, A Monoclonal Antibody That Binds to IL-2 and Inhibits IL-2R\u03b1 Binding, in Patients With Unresectable Locally Advanced or Metastatic Cancer",
+  "conditions": [
+   "Advanced Solid Tumor",
+   "Metastatic Cancer",
+   "Cutaneous Melanoma",
+   "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "AU-007"
+   },
+   {
+    "type": "DRUG",
+    "name": "Aldesleukin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Avelumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nivolumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07376707",
+  "title": "A Phase 1 Study of TGI-5 as Monotherapy and in Combination With Nivolumab in Subjects With Locally Advanced/Metastatic Solid Tumors",
+  "official_title": "A Phase 1 Study to Investigate the Safety, Tolerability, Pharmacokinetics/Pharmacodynamics, and Antitumor Activity of TGI-5 as Monotherapy and in Combination With Nivolumab in Subjects With Locally Advanced/Metastatic Solid Tumors",
+  "conditions": [
+   "CRC (Colorectal Cancer)",
+   "Melanoma (Skin Cancer)",
+   "HCC - Hepatocellular Carcinoma",
+   "NSCLC (Non-small Cell Lung Cancer)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "TGI-5"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06281678",
+  "title": "A Study of IBI363 in Subjects with Advanced Solid Malignancies",
+  "official_title": "A Phase 2, Open-label, Multicenter Study of IBI363 (PD1-IL2m) in Subjects with Advanced Solid Malignancies",
+  "conditions": [
+   "Melanoma",
+   "Non-small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "Renal Cell Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "IBI363"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06983743",
+  "title": "A Study of ERAS-0015 in Patients With Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1 First-in-Human Open-Label Study Evaluating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Preliminary Efficacy of ERAS-0015 Monotherapy and in Combination in Patients Advanced Solid Tumors",
+  "conditions": [
+   "Metastatic Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ERAS-0015"
+   },
+   {
+    "type": "DRUG",
+    "name": "ERAS-0015 in combination"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07488676",
+  "title": "A Study of ASP546C in Adults With Gastroesophageal Cancer, Pancreatic Cancer or Other Solid Tumors",
+  "official_title": "A Phase 1b/2 Open-label Study to Assess the Safety and Efficacy of ASP546C in Participants With CLDN18.2-expressing Locally Advanced Unresectable or Metastatic Gastroesophageal Adenocarcinoma, Pancreatic Adenocarcinoma or Other Solid Tumor Types",
+  "conditions": [
+   "Gastric or Gastro-esophageal Junction (GEJ) Adenocarcinoma",
+   "Pancreatic Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ASP546C"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07176962",
+  "title": "A Cell-free DNA Methylation Blood-Based Test for Biliary Tract Cancers Screening",
+  "official_title": "A Cell-free DNA Methylation Liquid Biopsy for Diagnosis and Management of Biliary Tract Cancers",
+  "conditions": [
+   "Gall Bladder Cancer",
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "Extrahepatic Cholangiocarcinoma",
+   "Hilar Cholangiocarcinoma",
+   "Billiary Track Cancer",
+   "ctDNA"
+  ],
+  "interventions": []
+ },
+ {
+  "nct_id": "NCT06859684",
+  "title": "Hepatic Arterial Infusion Chemotherapy (HAIC) Combined With Durvalumab and Lenvatinib in Patients With Locally Advanced or Metastatic Intrahepatic Cholangiocarcinoma: a Phase 2 Study(HAIC-quad Trial)",
+  "official_title": "Hepatic Arterial Infusion Chemotherapy (HAIC) Combined With Durvalumab and Lenvatinib in Patients With Locally Advanced or Metastatic Intrahepatic Cholangiocarcinoma: a Phase 2 Study(HAIC-quad Trial)",
+  "conditions": [
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "HAIC",
+   "Durvalumab"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Durvalumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "hepatic arterial infusion chemotherapy (HAIC)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Lenvatinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05334069",
+  "title": "Collecting Blood Samples From Patients With and Without Cancer to Evaluate Tests for Early Cancer Detection",
+  "official_title": "Blinded Reference Set for Multicancer Early Detection Blood Tests",
+  "conditions": [
+   "Acute Lymphoblastic Leukemia",
+   "Acute Myeloid Leukemia",
+   "Ann Arbor Stage I Lymphoma",
+   "Ann Arbor Stage II Lymphoma",
+   "Ann Arbor Stage III Lymphoma",
+   "Ann Arbor Stage IV Lymphoma",
+   "Chronic Lymphocytic Leukemia",
+   "Chronic Myeloid Leukemia",
+   "Gastroesophageal Junction Adenocarcinoma",
+   "Head and Neck Carcinoma",
+   "Hematopoietic and Lymphoid Cell Neoplasm",
+   "Invasive Breast Carcinoma",
+   "Kidney Carcinoma",
+   "Malignant Hepatobiliary Neoplasm",
+   "Malignant Solid Neoplasm",
+   "Melanoma",
+   "Muscle-Invasive Bladder Carcinoma",
+   "RISS Stage I Plasma Cell Myeloma",
+   "RISS Stage II Plasma Cell Myeloma",
+   "RISS Stage III Plasma Cell Myeloma",
+   "Sarcoma",
+   "Stage I Bladder Cancer AJCC v6 and v7",
+   "Stage I Breast Cancer AJCC v7",
+   "Stage I Colorectal Cancer AJCC v6 and v7",
+   "Stage I Esophageal Cancer AJCC V7",
+   "Stage I Gastric Cancer AJCC V7",
+   "Stage I Lung Cancer AJCC v7",
+   "Stage I Ovarian Cancer AJCC v6 and v7",
+   "Stage I Pancreatic Cancer AJCC v6 and v7",
+   "Stage I Prostate Cancer AJCC v7",
+   "Stage I Uterine Corpus Cancer AJCC v7",
+   "Stage II Bladder Cancer AJCC v6 and v7",
+   "Stage II Breast Cancer AJCC v6 and v7",
+   "Stage II Colorectal Cancer AJCC v7",
+   "Stage II Esophageal Cancer AJCC v7",
+   "Stage II Gastric Cancer AJCC v7",
+   "Stage II Lung Cancer AJCC v7",
+   "Stage II Ovarian Cancer AJCC v6 and v7",
+   "Stage II Pancreatic Cancer AJCC v6 and v7",
+   "Stage II Prostate Cancer AJCC v7",
+   "Stage II Uterine Corpus Cancer AJCC v7",
+   "Stage III Bladder Cancer AJCC v6 and v7",
+   "Stage III Breast Cancer AJCC v7",
+   "Stage III Colorectal Cancer AJCC v7",
+   "Stage III Esophageal Cancer AJCC v7",
+   "Stage III Gastric Cancer AJCC v7",
+   "Stage III Lung Cancer AJCC v7",
+   "Stage III Ovarian Cancer AJCC v6 and v7",
+   "Stage III Pancreatic Cancer AJCC v6 and v7",
+   "Stage III Prostate Cancer AJCC v7",
+   "Stage III Uterine Corpus Cancer AJCC v7",
+   "Stage IV Bladder Cancer AJCC v7",
+   "Stage IV Breast Cancer AJCC v6 and v7",
+   "Stage IV Colorectal Cancer AJCC v7",
+   "Stage IV Esophageal Cancer AJCC v7",
+   "Stage IV Gastric Cancer AJCC v7",
+   "Stage IV Lung Cancer AJCC v7",
+   "Stage IV Ovarian Cancer AJCC v6 and v7",
+   "Stage IV Pancreatic Cancer AJCC v6 and v7",
+   "Stage IV Prostate Cancer AJCC v7",
+   "Stage IV Uterine Corpus Cancer AJCC v7",
+   "Thyroid Gland Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Questionnaire Administration"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07405086",
+  "title": "Morning Versus Afternoon Administration of Immunotherapy for the Treatment of Advanced or Metastatic Solid Tumors, The Knight SHIFT Study",
+  "official_title": "Knight Cancer Institute Study of Histology-Agnostic Immunotherapy With Focus on Timing: - Knight SHIFT - A Prospective, Multi-Histology Pragmatic Study",
+  "conditions": [
+   "Advanced Biliary Tract Carcinoma",
+   "Advanced Head and Neck Squamous Cell Carcinoma",
+   "Advanced Hepatocellular Carcinoma",
+   "Advanced Lung Non-Small Cell Carcinoma",
+   "Advanced Malignant Solid Neoplasm",
+   "Advanced Melanoma",
+   "Advanced Renal Cell Carcinoma",
+   "Metastatic Biliary Tract Carcinoma",
+   "Metastatic Head and Neck Squamous Cell Carcinoma",
+   "Metastatic Hepatocellular Carcinoma",
+   "Metastatic Lung Non-Small Cell Carcinoma",
+   "Metastatic Malignant Solid Neoplasm",
+   "Metastatic Melanoma",
+   "Metastatic Renal Cell Carcinoma",
+   "Recurrent Head and Neck Squamous Cell Carcinoma",
+   "Stage III Hepatocellular Carcinoma AJCC v8",
+   "Stage III Lung Cancer AJCC v8",
+   "Stage III Renal Cell Cancer AJCC v8",
+   "Stage IV Hepatocellular Carcinoma AJCC v8",
+   "Stage IV Lung Cancer AJCC v8",
+   "Stage IV Renal Cell Cancer AJCC v8"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "DRUG",
+    "name": "Immune Checkpoint Inhibitor"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06422403",
+  "title": "A Value-Driven Study on Reducing Immune Checkpoint Inhibitor Dosing Frequency in Advanced Cancers",
+  "official_title": "A Value-Driven Study on Reducing Immune Checkpoint Inhibitor Dosing Frequency in Advanced Cancers: Phase 2 Randomized Trial (VALUE-CHECK)",
+  "conditions": [
+   "Carcinoma, Hepatocellular",
+   "Gastric Adenocarcinoma",
+   "GastroEsophageal Cancer",
+   "Oesophageal Cancer",
+   "Non-small Cell Lung Cancer",
+   "Head and Neck Squamous Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Extended Dosing Interval - A"
+   },
+   {
+    "type": "DRUG",
+    "name": "Extended Dosing Interval - B"
+   },
+   {
+    "type": "DRUG",
+    "name": "Extended Dosing Interval - C"
+   },
+   {
+    "type": "DRUG",
+    "name": "Standard of Care - A"
+   },
+   {
+    "type": "DRUG",
+    "name": "Standard of Care - B"
+   },
+   {
+    "type": "DRUG",
+    "name": "Standard of Care - C"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04771520",
+  "title": "Avapritinib for the Treatment of CKIT or PDGFRA Mutation-Positive Locally Advanced or Metastatic Malignant Solid Tumors",
+  "official_title": "Phase 2 Study of Avapritinib in Patients With CKIT or PDGFRA Mutation-Positive Malignant Solid Tumors",
+  "conditions": [
+   "Anatomic Stage IV Breast Cancer AJCC v8",
+   "Clinical Stage IV Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Clinical Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Clinical Stage IVB Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Locally Advanced Malignant Solid Neoplasm",
+   "Locally Advanced Melanoma",
+   "Locally Advanced Primary Malignant Central Nervous System Neoplasm",
+   "Locally Advanced Sarcoma",
+   "Metastatic Malignant Solid Neoplasm",
+   "Metastatic Melanoma",
+   "Metastatic Primary Malignant Central Nervous System Neoplasm",
+   "Metastatic Sarcoma",
+   "Pathologic Stage IV Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Pathologic Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Pathologic Stage IVB Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Postneoadjuvant Therapy Stage IV Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Postneoadjuvant Therapy Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Postneoadjuvant Therapy Stage IVB Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Prognostic Stage IIIC Breast Cancer AJCC v8",
+   "Prognostic Stage IV Breast Cancer AJCC v8",
+   "Stage IIIC Colorectal Cancer AJCC v8",
+   "Stage IIIC Lung Cancer AJCC v8",
+   "Stage IV Colorectal Cancer AJCC v8",
+   "Stage IV Lung Cancer AJCC v8",
+   "Stage IVA Colorectal Cancer AJCC v8",
+   "Stage IVA Lung Cancer AJCC v8",
+   "Stage IVB Colorectal Cancer AJCC v8",
+   "Stage IVB Lung Cancer AJCC v8",
+   "Stage IVC Colorectal Cancer AJCC v8"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Avapritinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07278479",
+  "title": "Study of [212Pb]Pb-DOTAM-MAM279 ([212Pb]Pb-MP0712) in Patients With Small Cell Lung Cancer and Other DLL3 Expressing Solid Tumors",
+  "official_title": "A Phase 1/2a Study to Assess Safety, Tolerability, and Efficacy of [212Pb]Pb-DOTAM-MAM279 in Patients With Small Cell Lung Cancer and Other DLL3 Expressing Solid Tumors",
+  "conditions": [
+   "Large Cell Neuroendocrine Carcinoma",
+   "Large Cell Pulmonary Neuroendocrine Carcinoma of the Lung (LCNEC)",
+   "Extrapulmonary Neuroendocrine Carcinoma (EP-NEC)",
+   "Small Cell Lung Cancer (SCLC)",
+   "Gastroenteropancreatic NEC (GEP NEC)",
+   "NEC of the Bladder",
+   "Other DLL3 Expressing epNEC"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "[212Pb]Pb-MP0712"
+   },
+   {
+    "type": "OTHER",
+    "name": "[203Pb]Pb-MP0712"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05379985",
+  "title": "Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS",
+  "official_title": "A Multicenter Open-Label Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS",
+  "conditions": [
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (CRC)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Advanced Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "RMC-6236"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06805825",
+  "title": "A Study of the c-Kit Specific Antibody-Drug Conjugate NN3201 for Advanced and/or Metastatic Solid Tumors Known to Express c-Kit",
+  "official_title": "A Phase 1 Dose Escalation and Expansion Study of the c-Kit Specific Antibody-Drug Conjugate NN3201 in Subjects With Advanced and/or Metastatic Solid Tumors Known to Express c-Kit",
+  "conditions": [
+   "Gastrointestinal Stromal Tumors",
+   "Small-cell Lung Cancer",
+   "Adenoid Cystic Carcinoma",
+   "Uveal Melanoma",
+   "Neuroendocrine Tumors",
+   "Chromophobe Renal Cell Carcinoma",
+   "Clear Cell Renal Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "NN3201"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06888063",
+  "title": "Additional Chemotherapy Administered Directly Into the Liver Using a Chemo Pump in Patients With Bile Duct Cancer Inside the Liver Treatable by Surgery",
+  "official_title": "Preventing Liver Recurrence After Partial Hepatectomy for Intrahepatic Cholangiocarcinoma Using Adjuvant Hepatic Arterial Infusion Pump Chemotherapy - PUMP IV Trial",
+  "conditions": [
+   "Intrahepatic Bile Duct Cancer",
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "Intrahepatic Bile Duct Carcinoma",
+   "Intrahepatic Cholangiocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "COMBINATION_PRODUCT",
+    "name": "Hepatic Arterial Infusion Pump chemotherapy with floxuridin"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06605404",
+  "title": "Pan-tumor MRD Study",
+  "official_title": "Molecular Residual Disease in Solid Tumors: A Prospective Study to Collect Clinical Data and Biospecimens to Support Discovery and Development of Cancer Biomarkers",
+  "conditions": [
+   "Muscle Invasive Bladder Urothelial Carcinoma",
+   "Esophageal Cancer",
+   "Gastric and Gastroesophageal Junction (GEJ) Adenocarcinoma",
+   "Melanoma (Skin Cancer)",
+   "NSCLC (Non-small Cell Lung Cancer)",
+   "Pancreatic (Exocrine Only)",
+   "Mix of Solid Tumors (MOST)"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "blood and tissue samples"
+   },
+   {
+    "type": "OTHER",
+    "name": "blood and tissue samples"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06218914",
+  "title": "Phase 1 Study to Investigate TCRTs KRAS Mutation in Unresectable, Advanced, and/or Metastatic Solid Tumors",
+  "official_title": "Open-label, Phase 1, Multi-Center Master Protocol to Evaluate the Safety and Preliminary Anti-Tumor Activity of TCR-engineered T Cells Recognizing KRAS Mutations in Adult Subjects With Unresectable, Advanced, and/or Metastatic Solid Tumors",
+  "conditions": [
+   "Non-small Cell Lung Cancer",
+   "Colorectal Carcinoma",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Endometrial Cancer",
+   "Solid Tumor, Adult",
+   "KRAS G12D"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "NT-112: Autologous, engineered T Cells targeting KRAS G12D"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "AZD0240: Autologous, engineered T Cells targeting KRAS G12D"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06682793",
+  "title": "A Study to Evaluate the Safety and Efficacy of A2B395, an Allogeneic Logic-gated CAR T, in Participants With Solid Tumors That Express EGFR and Have Lost HLA-A*02 Expression",
+  "official_title": "A Seamless Phase 1/2 Study to Evaluate the Safety and Efficacy of A2B395, an Allogeneic Logic-gated Tmod\u2122 CAR T, in Heterozygous HLA-A*02 Adults With Recurrent Unresectable, Locally Advanced, or Metastatic Solid Tumors That Express EGFR and Have Lost HLA-A*02 Expression",
+  "conditions": [
+   "Solid Tumor, Adult",
+   "Colorectal Cancer",
+   "Non-Small Cell Lung",
+   "NSCLC (Non-small Cell Lung Cancer)",
+   "Cancer",
+   "Colon Cancer",
+   "Rectal Cancer",
+   "Lung Cancer",
+   "CRC",
+   "Head and Neck Squamous Cell Cancer",
+   "HNSCC",
+   "Renal Cell Carcinoma",
+   "RCC",
+   "Kidney Cancer",
+   "Triple Negative Breast Cancer",
+   "TNBC",
+   "Colorectal Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "A2B395"
+   },
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "xT CDx with HLA-LOH assay"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05978284",
+  "title": "Study of ZG006 in Participants With Small Cell Lung Cancer or Neuroendocrine Carcinoma",
+  "official_title": "A Phase 1/2 Dose Escalation Study of the Tolerability, Safety, Efficacy and Pharmacokinetics of ZG006 in Participants With Small Cell Lung Cancer or Neuroendocrine Carcinoma",
+  "conditions": [
+   "Small Cell Lung Cancer",
+   "Neuroendocrine Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "ZG006"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06596915",
+  "title": "Safety and Efficacy of BA1302 in Patients With Advanced Solid Tumors",
+  "official_title": "A Phase I Study to Evaluate the Safety, Tolerability, Pharmacokinetic, and Preliminary Efficacy of BA1302 in Patients With Advanced Solid Malignancies",
+  "conditions": [
+   "Non-Small Cell Lung Cancer",
+   "Pancreatic Adenocarcinoma",
+   "Breast Cancer",
+   "Melanoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BA1302"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06586515",
+  "title": "MOONRAY-01, A Study of LY3962673 in Participants With KRAS G12D-Mutant Solid Tumors",
+  "official_title": "A Phase 1a/1b Trial of LY3962673 in Participants With KRAS G12D-Mutant Solid Tumors",
+  "conditions": [
+   "Pancreatic Ductal Adenocarcinoma",
+   "Non-small Cell Lung Cancer",
+   "Colorectal Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "LY3962673"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cetuximab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Gemcitabine"
+   },
+   {
+    "type": "DRUG",
+    "name": "nab-paclitaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Oxaliplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "leucovorin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Irinotecan"
+   },
+   {
+    "type": "DRUG",
+    "name": "5-fluorouracil"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07610798",
+  "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Antitumor Activity of INV-8989 in Patients With Advanced Solid Tumors Harboring KRAS G12D Mutations",
+  "official_title": "A Phase I/II, Open-Label, Multi-Center, Dose Escalation and Cohort Expansion Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Antitumor Activity of INV-8989 in Patients With Advanced Solid Tumors Harboring KRAS G12D Mutations",
+  "conditions": [
+   "Advance Solid Tumors",
+   "Colon and Rectal Cancer",
+   "Non - Small Cell Lung Cancer NSCLC",
+   "Pancreatic Adenocarcinoma Advanced or Metastatic",
+   "Ovarian Cancer",
+   "Endometrial Cancer",
+   "Biliary Cancers"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "INV-8989"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07094204",
+  "title": "A Study to Find a Suitable Dose of ASP5834 in Adults With Solid Tumors",
+  "official_title": "A Phase 1 Study of ASP5834 in Participants With Locally Advanced (Unresectable) or Metastatic Solid Tumor Malignancies With KRAS Mutations or KRAS Amplifications",
+  "conditions": [
+   "Solid Tumor",
+   "Non-Small-Cell Lung Cancer",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Colorectal Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ASP5834"
+   },
+   {
+    "type": "DRUG",
+    "name": "panitumumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07161882",
+  "title": "ALG-LungCancerRegistry (SAFRO2202)",
+  "official_title": "Observational Study of the Epidemiological, Clinical, and Diagnostic Profile, Treatment Patterns, and Outcomes of Lung Cancer.",
+  "conditions": [
+   "Lung Neoplasms",
+   "Carcinoma, Non-Small-Cell Lung",
+   "Carcinoma, Small Cell",
+   "Carcinoid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Observational Data Collection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06451497",
+  "title": "This is a Phase 1 Trial of ZM008, an Anti-LLT1 Antibody, Used as Single Agent Followed by Combination Treatment With Toripalimab in Patients With Advanced Solid Tumors",
+  "official_title": "Phase 1 Dose Escalation Trial of ZM008, an Anti-LLT1 Antibody, as Single Agent Followed by Combination With Toripalimab in Patients With Advanced Solid Tumors",
+  "conditions": [
+   "Non Small Cell Lung Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Pancreas Adenocarcinoma",
+   "Biliary Tract Cancer",
+   "Prostate Cancer",
+   "Urothelial Carcinoma",
+   "Colorectal Cancer",
+   "Triple Negative Breast Cancer",
+   "High Grade Ovarian Serous Adenocarcinoma",
+   "Diffuse Large B Cell Lymphoma",
+   "Renal Cell Cancer Metastatic"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "ZM008"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07227168",
+  "title": "A Study of STRO-004 in Adults With Refractory/Recurrent Metastatic Cancer",
+  "official_title": "A Phase 1 Open-Label Study to Evaluate Safety, Pharmacokinetics, and Preliminary Anti-Tumor Activity of STRO-004 in Adults With Refractory/Recurrent Metastatic Solid Tumors",
+  "conditions": [
+   "Head and Neck Squamous Cell Carcinoma HNSCC",
+   "Non-Small Cell Lung Cancer NSCLC",
+   "Esophageal Cancer",
+   "Gastric Cancer",
+   "Colorectal Cancer",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Cervical Cancer",
+   "Endometrial Cancer",
+   "Urothelial Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "STRO-004"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05733000",
+  "title": "CPI-613 (Devimistat) in Combination With Hydroxychloroquine and 5-fluorouracil or Gemcitabine in Treating Patients With Advanced Chemorefractory Solid Tumors",
+  "official_title": "Phase II Open-Label Multi-Cohort Study Evaluating CPI-613 (Devimistat) in Combination With Hydroxychloroquine and 5-fluorouracil or Gemcitabine in Patients With Advanced Chemorefractory Colorectal, Pancreatic, or Other Solid Cancers",
+  "conditions": [
+   "Advanced Biliary Tract Carcinoma",
+   "Advanced Colorectal Carcinoma",
+   "Advanced Gastroesophageal Junction Adenocarcinoma",
+   "Advanced Lung Adenocarcinoma",
+   "Advanced Malignant Solid Neoplasm",
+   "Advanced Ovarian Carcinoma",
+   "Advanced Pancreatic Carcinoma",
+   "Advanced Urothelial Carcinoma",
+   "Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Clinical Stage IV Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Metastatic Biliary Tract Carcinoma",
+   "Metastatic Colorectal Carcinoma",
+   "Metastatic Gastroesophageal Junction Adenocarcinoma",
+   "Metastatic Lung Adenocarcinoma",
+   "Metastatic Ovarian Carcinoma",
+   "Metastatic Pancreatic Carcinoma",
+   "Metastatic Urothelial Carcinoma",
+   "Refractory Biliary Tract Carcinoma",
+   "Refractory Colorectal Carcinoma",
+   "Refractory Gastroesophageal Junction Adenocarcinoma",
+   "Refractory Lung Adenocarcinoma",
+   "Refractory Ovarian Carcinoma",
+   "Refractory Pancreatic Carcinoma",
+   "Refractory Urothelial Carcinoma",
+   "Stage II Pancreatic Cancer AJCC v8",
+   "Stage III Colorectal Cancer AJCC v8",
+   "Stage III Lung Cancer AJCC v8",
+   "Stage III Ovarian Cancer AJCC v8",
+   "Stage III Pancreatic Cancer AJCC v8",
+   "Stage IV Colorectal Cancer AJCC v8",
+   "Stage IV Lung Cancer AJCC v8",
+   "Stage IV Ovarian Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Computed Tomography"
+   },
+   {
+    "type": "DRUG",
+    "name": "Devimistat"
+   },
+   {
+    "type": "DRUG",
+    "name": "Fluorouracil"
+   },
+   {
+    "type": "DRUG",
+    "name": "Gemcitabine Hydrochloride"
+   },
+   {
+    "type": "DRUG",
+    "name": "Hydroxychloroquine"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Magnetic Resonance Imaging"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05272709",
+  "title": "TT-702 in Patients With Advanced Solid Tumours.",
+  "official_title": "CURATE: A Cancer Research UK Phase I/II, Dose Escalation and Expansion Trial of TT-702, A Selective Adenosine A2BR Antagonist, Given Orally as a Monotherapy Agent and in Combination, in Patients With Advanced Solid Tumours",
+  "conditions": [
+   "Advanced Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "TT-702"
+   },
+   {
+    "type": "DRUG",
+    "name": "Anti-PD-1 and PD-L1 agent"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06265285",
+  "title": "Comparison of In-Home Versus In-Clinic Administration of Subcutaneous Nivolumab Through Cancer CARE (Connected Access and Remote Expertise) Beyond Walls (CCBW) Program",
+  "official_title": "MC230716 Pilot Single-Arm, Pragmatic Trial Of In-Home Versus In-Clinic Subcutaneous Nivolumab Administration Through Cancer CARE (Connected Access And Remote Expertise) Beyond Walls (CCBW) Program",
+  "conditions": [
+   "Advanced Esophageal Squamous Cell Carcinoma",
+   "Advanced Renal Cell Carcinoma",
+   "Clinical Stage II Esophageal Squamous Cell Carcinoma AJCC v8",
+   "Clinical Stage IIB Cutaneous Melanoma AJCC v8",
+   "Clinical Stage IIC Cutaneous Melanoma AJCC v8",
+   "Clinical Stage III Cutaneous Melanoma AJCC v8",
+   "Clinical Stage III Esophageal Squamous Cell Carcinoma AJCC v8",
+   "Clinical Stage IV Cutaneous Melanoma AJCC v8",
+   "Clinical Stage IV Esophageal Squamous Cell Carcinoma AJCC v8",
+   "Esophageal Carcinoma",
+   "Gastroesophageal Junction Adenocarcinoma",
+   "Hepatocellular Carcinoma",
+   "Locally Advanced Urothelial Carcinoma",
+   "Lung Non-Small Cell Carcinoma",
+   "Malignant Solid Neoplasm",
+   "Metastatic Colorectal Carcinoma",
+   "Metastatic Cutaneous Melanoma",
+   "Metastatic Esophageal Squamous Cell Carcinoma",
+   "Metastatic Head and Neck Squamous Cell Carcinoma",
+   "Metastatic Urothelial Carcinoma",
+   "Recurrent Esophageal Squamous Cell Carcinoma",
+   "Recurrent Head and Neck Squamous Cell Carcinoma",
+   "Renal Cell Carcinoma",
+   "Stage III Renal Cell Cancer AJCC v8",
+   "Stage IV Colorectal Cancer AJCC v8",
+   "Stage IV Cutaneous Squamous Cell Carcinoma of the Head and Neck AJCC v8",
+   "Stage IV Renal Cell Cancer AJCC v8",
+   "Unresectable Cutaneous Melanoma",
+   "Unresectable Esophageal Squamous Cell Carcinoma",
+   "Urothelial Carcinoma",
+   "Unresectable Urothelial Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Home Health Encounter"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "Nivolumab"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Patient Monitoring"
+   },
+   {
+    "type": "OTHER",
+    "name": "Questionnaire Administration"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06307925",
+  "title": "A Phase I Study to Evaluate the Safety, Pharmacokinetics and Antitumor Activity of HC010 in Patients With Advanced Solid Tumors",
+  "official_title": "A Phase I Open-label, Multi-center, Dose Escalation and Expansion Study to Evaluate the Safety, Pharmacokinetics and Antitumor Activity of HC010 in Patients With Advanced Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "HC010"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07229313",
+  "title": "A Study of KIVU-107 in Participants With Locally Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1 Dose-Finding and Dose-Expansion Study of KIVU-107 in Participants With Locally Advanced or Metastatic Solid Tumors",
+  "conditions": [
+   "Advance Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "KIVU-107"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07161869",
+  "title": "Preoperative Evaluation of Lymph Nodes of Cholangiocarcinoma (POELH-III)",
+  "official_title": "Preoperative Evaluation of Lymph Nodes of Cholangiocarcinoma by Endoscopic Ultrasound (POELH-III)",
+  "conditions": [
+   "Hilar Cholangiocarcinoma",
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "Cholangiocarcinoma",
+   "Perihilar Cholangiocarcinoma",
+   "Common Bile Duct Neoplasms",
+   "Adenocarcinoma of Biliary Tract"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Registration of all findings during preoperative Endoscopic Ultrasound"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07476651",
+  "title": "Scout Dose of Resin Microspheres",
+  "official_title": "Lung Shunt Fraction Measurement With Scout Dose of Resin Yttrium-90 Microspheres for Radioembolization (LASER)",
+  "conditions": [
+   "Radioembolization",
+   "Hepatocellular Carcinoma (HCC)",
+   "Intrahepatic Cholangiocarcinoma (ICC)",
+   "Liver Metastasis"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "scout dose"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05475366",
+  "title": "Personalized First-line Chemotherapy Choice in Advanced Pancreatic Adenocarcinoma Using Transcriptomic Signatures",
+  "official_title": "Pilot Study of Personalized First-line Chemotherapy Choice for Patients With Advanced Pancreatic Adenocarcinoma Using Transcriptomic Signatures (PACsign)",
+  "conditions": [
+   "Carcinoma, Pancreatic Ductal",
+   "Prognosis"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Clinical value of 5 transcriptomic signatures to personalize the therapeutic decision for L1 in PDAC"
+   },
+   {
+    "type": "OTHER",
+    "name": "Biomarkers of tumor signatures (translational studies)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04591002",
+  "title": "Osimertinib to Suppress the Progression of GGN(EGFR Mutation-positive)",
+  "official_title": "A Phase II, Study of Osimertinib to Suppress the Progression of Remaining Ground-glass Opacity Nodule (GGN) in Other Lobes After Curative Resection for Actionable EGFR Mutation-positive Stage IB-IIIA Lung Adenocarcinoma",
+  "conditions": [
+   "Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Osimertinib 80 MG"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07223424",
+  "title": "Patient Preference for Subcutaneous vs. Intravenous Immune Therapy",
+  "official_title": "Patient Preference for Subcutaneous vs. Intravenous Immune Therapy (PSI-Immune)",
+  "conditions": [
+   "Renal Cell Carcinoma",
+   "Non Small Cell Lung Cancer",
+   "Melanoma",
+   "Colo-rectal Cancer (dMMR/MSI-H CRC)",
+   "Hepatocellular Carcinoma",
+   "Ulcerative Colitis",
+   "Esophageal Cancer",
+   "Squamous Cell Carcinoma",
+   "Gastric/GEJ",
+   "Cervical Cancer",
+   "Gastro-Esophageal Adenocarcinoma",
+   "Esophageal Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "nivolumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "pembrolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06394674",
+  "title": "High-dose Furmonertinib in the Treatment in Patients With Advanced, Metastatic NSCLC With Progressed After First- or Second-line Treatment With Osimertinib",
+  "official_title": "A Prospective, Randomized, Phase ll Clinical Trial of Single-agent Treatment With Different Doses of Sulfamethoxazole Furmonertinib in Patients With Advanced, Metastatic Lung Adenocarcinoma Who Have Progressed After First- or Second-line Treatment With EGFR-TKl Osimertinib",
+  "conditions": [
+   "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Furmonertinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07070518",
+  "title": "Study of GV20-0251 in Participants With Solid Tumor Malignancies",
+  "official_title": "An Open-Label Phase 1/2A Study of GV20-0251 in Participants With Advanced and/or Refractory Solid Tumor Malignancies",
+  "conditions": [
+   "Solid Tumor Cancer",
+   "Adult Refractory Cancer",
+   "Endometrial Carcinoma (EC)",
+   "Squamous Head and Neck Carcinoma",
+   "pMMR/MSS Adenocarcinoma of the Colon or Rectum",
+   "Non-Small Cell Lung Cancer",
+   "Melanoma",
+   "HCC - Hepatocellular Carcinoma",
+   "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "GV20-0251"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07783477",
+  "title": "A Study of Armored CAR T Cells in People With Cancer",
+  "official_title": "A Phase I Trial for R/R MetAstatic DLL3+ Cancers Utilizing Armored CAR T Cells (ARMADA)",
+  "conditions": [
+   "Neuroendocrine Cancer",
+   "Small Cell Lung Cancer",
+   "Small Cell Lung Cancer ( SCLC )"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "DLL3-SAVVYZ-IL18 CAR T cell"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07749586",
+  "title": "A Study to Evaluate ARV-6723 Alone and With Pembrolizumab in Participants With Advanced Solid Tumors",
+  "official_title": "A Phase 1/2 Open-label Study to Evaluate Safety, Tolerability, Pharmacokinetics, and Preliminary Anti-tumor Activity of ARV-6723 Administered as Monotherapy and in Combination With Pembrolizumab in Participants With Advanced Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ARV-6723"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "SOC"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06242470",
+  "title": "A Study of MGC026 in Participants With Advanced Solid Tumors",
+  "official_title": "A Phase 1/1b First-in-Human, Open Label, Dose Escalation and Cohort Expansion Study of MGC026 in Participants With Advanced Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumor",
+   "Advanced Cancer",
+   "Metastatic Cancer",
+   "Squamous Cell Carcinoma of Head and Neck",
+   "Non Small Cell Lung Cancer",
+   "Small-cell Lung Cancer",
+   "Bladder Cancer",
+   "Sarcoma",
+   "Endometrial Cancer",
+   "Melanoma",
+   "Castration Resistant Prostatic Cancer",
+   "Cervical Cancer",
+   "Colorectal Cancer",
+   "Gastric Cancer",
+   "Gastro-esophageal Cancer",
+   "Pancreas Cancer",
+   "Clear Cell Renal Cell Carcinoma",
+   "Hepatocellular Carcinoma",
+   "Platinum-resistant Ovarian Cancer",
+   "Breast Cancer",
+   "Ovarian Cancer",
+   "Esophageal Squamous Cell Cancer (SCC)"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "MGC026 Dose Escalation"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "MGC026 Dose for Expansion"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07435038",
+  "title": "Study of BPI-572270 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS",
+  "official_title": "A Phase I/II Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of BPI-572270 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS.",
+  "conditions": [
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (CRC)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Advanced Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BPI-572270"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06495125",
+  "title": "Defactinib, Avutometinib and Nivolumab for the Treatment of Anti-PD1 Refractory LKB1-Mutant Advanced Non-Small Cell Lung Cancer",
+  "official_title": "A Phase 2 Study of Defactinib and Avutometinib, in Combination With Nivolumab for Patients With Anti-PD1 Refractory LKB1-Mutant Advanced Lung Adenocarcinoma",
+  "conditions": [
+   "Advanced Lung Adenocarcinoma",
+   "Refractory Lung Adenocarcinoma",
+   "Stage III Lung Cancer AJCC v8",
+   "Stage IV Lung Cancer AJCC v8"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Avutometinib"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Biopsy"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Computed Tomography"
+   },
+   {
+    "type": "DRUG",
+    "name": "Defactinib"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "Nivolumab"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Positron Emission Tomography"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06851663",
+  "title": "Trop2-targeted immunoPET Imaging of Solid Tumors",
+  "official_title": "Trop2-targeted immunoPET Imaging of Solid Tumors",
+  "conditions": [
+   "Solid Tumor",
+   "Solid Carcinoma",
+   "Uroepithelial Carcinoma",
+   "Bladder Cancer",
+   "Prostate Cancer",
+   "Lung Cancer",
+   "Nasopharyngeal Cancer",
+   "Liver Cancer",
+   "Cholangiocarcinoma",
+   "Ovarian Cancer",
+   "Cervical Cancer",
+   "Endometrial Cancer",
+   "Thyroid Cancer",
+   "Head and Neck Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "[68Ga]Ga-NOTA-T4"
+   },
+   {
+    "type": "DRUG",
+    "name": "[68Ga]Ga-NOTA-RT4"
+   },
+   {
+    "type": "DRUG",
+    "name": "[18F]F-RESCA-T4"
+   },
+   {
+    "type": "DRUG",
+    "name": "[18F]F-RESCA-RT4"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07374614",
+  "title": "Iruplinalkib in ALK-Positive Advanced Lung Adenocarcinoma After Lorlatinib",
+  "official_title": "An Observational Study of the Efficacy and Safety of Iruplinalkib(WX-0593) in ALK-positive Advanced Lung Adenocarcinoma Following Lorlatinib Treatment",
+  "conditions": [
+   "Non-Small Cell Lung Cancer",
+   "ALK",
+   "Iruplinalkib",
+   "Lorlatinib",
+   "Real-world Study",
+   "Observational Study"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Iruplinalkib tablets"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT03175224",
+  "title": "APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors",
+  "official_title": "Phase 1 / 2 Multicenter Study of the Safety, Pharmacokinetics, and Preliminary Efficacy of APL-101 in Subjects With Non-Small Cell Lung Cancer With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors",
+  "conditions": [
+   "Solid Tumors",
+   "Advanced Cancer",
+   "Renal Cancer",
+   "Gastric Cancer",
+   "Gastroesophageal Junction Adenocarcinoma",
+   "NSCLC",
+   "Lung Cancer",
+   "Brain Tumor",
+   "Glioblastoma Multiforme",
+   "EGFR Gene Mutation",
+   "MET Amplification",
+   "HGF",
+   "Thyroid Cancer",
+   "Pancreatic Cancer",
+   "Colon Cancer",
+   "MET Alteration",
+   "MET Fusion",
+   "Exon 14 Skipping"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "APL-101 Oral Capsules"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07751783",
+  "title": "Development and Dissemination of Exercise Prescription and Intervention for Cancer Populations",
+  "official_title": "A Program for the Development and Dissemination of Exercise Prescription and Intervention for Cancer Populations",
+  "conditions": [
+   "Cancer",
+   "Cancer (Colon Cancer, Breast Cancer, Lymphoma, Chronic Lymphoma Leukemia, Multiple Myeloma)",
+   "Lung Cancer (Non-Small Cell)",
+   "Liver Cancer, Adult",
+   "Cancer Survivor"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "structured exercise training"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07124000",
+  "title": "DESTINY-PANTUMOUR04",
+  "official_title": "Effectiveness of T-DXd Across HER2-positive Solid Tumors in Patients Who Have Received Prior Systemic Treatment and Have no Satisfactory Alternative Treatment Options: A Hybrid Observational Study",
+  "conditions": [
+   "Adenocarcinoma (NOS)",
+   "Anal Cancer",
+   "Bladder Cancer",
+   "Cervical Cancer",
+   "Endometrial Cancer",
+   "Esophageal Cancer",
+   "Gall Bladder Cancer",
+   "Gastrointestinal Stromal Tumour",
+   "Head and Neck Cancer",
+   "Liver Cancer",
+   "Melanoma",
+   "Mouth Cancer",
+   "Nasopharangeal Cancer",
+   "Neuroendocrine, Gastrointestinal Cancer",
+   "Ovarian Cancer",
+   "Pancreatic Cancer",
+   "Prostate Cancer",
+   "Renal Cell Carcinoma",
+   "Salivary Gland Cancer",
+   "Sarcoma",
+   "Small Cell Lung Cancer",
+   "Testicular Cancer",
+   "Throat Cancer",
+   "Thyroid Cancer",
+   "Urethral Cancer",
+   "Vaginal Cancer",
+   "Vulvar Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Trastuzumab deruxtecan"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06634966",
+  "title": "Segmentectomy for Solid-dominant Lung Cancer",
+  "official_title": "Segmentectomy for Solid-dominant GGO-featured Invasive Lung Cancer With Size of 2-3cm: a Single-arm, Multi-center, Phase III Trial",
+  "conditions": [
+   "Segmentectomy",
+   "Lung Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Segmentectomy"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07341737",
+  "title": "SL-28 for Advanced Solid Tumours",
+  "official_title": "A Phase 1/2, Multicentre, Open-Label, Dose Escalation and Expansion Study to Assess the Safety, Pharmacokinetics, and Preliminary Efficacy of SL-28 in Patients With Advanced Solid Tumours",
+  "conditions": [
+   "Head & Neck Cancer",
+   "Pancreas Carcinoma",
+   "Pancreas Cancer, Metastatic",
+   "Lung Adenocarcinoma",
+   "Lung Cancer (NSCLC)",
+   "Lung Cancer (Non-Small Cell)",
+   "Esophageal Cancer",
+   "Stomach (Gastric) Cancer",
+   "Liver Cancer",
+   "Intestinal Cancer",
+   "Bladder Cancer",
+   "Renal Cancer",
+   "Prostate Cancer",
+   "Melanoma (Skin Cancer)",
+   "Breast Cancer",
+   "Ovarian Cancer",
+   "Endometrial Cancer",
+   "Colorectal Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "SL-28"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "SL-28"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "SL-28"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06735560",
+  "title": "Study Assessing PET Imaging With Zirconium-labelled Girentuximab in Patients With HCC, BTC or NEN",
+  "official_title": "Prospective Pilot Study Assessing Imaging Performance of 89Zirconium-labelled Girentuximab (89Zr-TLX250) PET-CT in Patients With HepatoCellular Carcinoma, Biliary Tract Carcers or Gastro-Entero-Pancreatic Neuroendocrine Neoplasms.",
+  "conditions": [
+   "Hepatocellular Carcinoma (HCC)",
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "Neuroendocrine Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "RADIATION",
+    "name": "89Zr-TLX250 PET/CT"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06814496",
+  "title": "Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors",
+  "official_title": "RAdiation comBined With BIspecific T-Cell Engager in DLL3 Expressing Tumors (RABBIT) Study: A Phase I/II Study of AMG757 / Tarlatamab and Concurrent Radiation Therapy in Tumors With High Prevalence of DLL3",
+  "conditions": [
+   "Melanoma",
+   "Medullary Thyroid Cancer",
+   "Sinonasal Undifferentiated Carcinoma",
+   "Esthesioneuroblastoma",
+   "Bladder Cancer",
+   "Testicular Cancer",
+   "Glioblastoma Multiforme",
+   "Cervical Cancer",
+   "Large Cell Neuroendocrine Carcinoma of the Lung",
+   "Non Small Cell Lung Cancer",
+   "Merkel Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Tarlatamab"
+   },
+   {
+    "type": "RADIATION",
+    "name": "Concurrent Radiation Therapy"
+   },
+   {
+    "type": "RADIATION",
+    "name": "Sequential Radiation therapy"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT03351842",
+  "title": "Surgery With or Without Chemotherapy for Stage I NSCLC With Micropapillary Component \u2265 20%",
+  "official_title": "A PHASE II STUDY Of ADJUVANT CHEMOTHERAPY After SURGERY For STAGE I Lung ADENOCARCINOMA PATIENTS With MICROPAPILLARY COMPONENT More Than Or EQUAL To 20%",
+  "conditions": [
+   "Chemotherapy, Adjuvant",
+   "Lung Adenocarcinoma, Stage I",
+   "Treatment",
+   "Histological Type of Neoplasm"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "cis Platinum/Carboplatin, Pemetrexed Disodium"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Undergo surgery"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04952272",
+  "title": "Intratumor CpG-ODN Injection Boosters Immune Killing Against in Situ Tumor Antigen Release for Advanced Solid Tumors",
+  "official_title": "Intratumor CpG-ODN Injection Boosters Immune Killing Against in Situ Tumor Antigen Released by Interventional Approaches for Advanced Solid Tumors",
+  "conditions": [
+   "Lung Cancer",
+   "Hepatocellular Carcinoma",
+   "Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "COMBINATION_PRODUCT",
+    "name": "CpG-ODN"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07277413",
+  "title": "A Study of IDE892 as Monotherapy and Combination in MTAP-deleted Advanced Solid Tumors",
+  "official_title": "A Multicenter Study Evaluating the Safety, Efficacy, and Pharmacokinetics of IDE892 as Monotherapy and Combination Therapy in Participants With MTAP-Deleted Advanced Solid Tumors",
+  "conditions": [
+   "NSCLC Adenocarcinoma",
+   "Gastroesophageal Cancer (GC)",
+   "Gastric Adenocarcinoma",
+   "Adenocarcinoma of Esophagus",
+   "Squamous Cell Car. - Esophagus",
+   "Urothelial Carcinoma (UC)",
+   "Bladder Cancer",
+   "Mesothelioma",
+   "Pleural Mesothelioma",
+   "Peritoneal Mesothelioma",
+   "Non-Small Cell Lung Cancer NSCLC",
+   "Pancreatic Cancer",
+   "Biliary Tract Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "IDE892"
+   },
+   {
+    "type": "DRUG",
+    "name": "IDE397"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05245500",
+  "title": "Phase 1 Study of MRTX1719 in Solid Tumors With MTAP Deletion",
+  "official_title": "A Phase 1 Multiple Expansion Cohort Trial of MRTX1719 in Patients With Advanced Solid Tumors With Homozygous MTAP Deletion",
+  "conditions": [
+   "Mesothelioma",
+   "Non Small Cell Lung Cancer",
+   "Malignant Peripheral Nerve Sheath Tumors",
+   "Solid Tumor",
+   "Pancreatic Adenocarcinoma",
+   "Advanced Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "MRTX1719"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04389632",
+  "title": "A Study of Sigvotatug Vedotin in Advanced Solid Tumors",
+  "official_title": "A Phase 1 Study of Sigvotatug Vedotin in Advanced Solid Tumors",
+  "conditions": [
+   "Carcinoma, Non-Small Cell Lung",
+   "Squamous Cell Carcinoma of Head and Neck",
+   "HER2 Negative Breast Neoplasms",
+   "Esophageal Squamous Cell Carcinoma",
+   "Esophageal Adenocarcinoma",
+   "Gastroesophageal Junction Adenocarcinoma",
+   "Ovarian Neoplasms",
+   "Cutaneous Squamous Cell Cancer",
+   "Exocrine Pancreatic Adenocarcinoma",
+   "Urinary Bladder Neoplasms",
+   "Uterine Cervical Neoplasms",
+   "Stomach Neoplasms"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "sigvotatug vedotin"
+   },
+   {
+    "type": "DRUG",
+    "name": "pembrolizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "cisplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "carboplatin"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04169542",
+  "title": "Impact of COVID-19 Pandemic on Out-of-Pocket Costs, Lost Wages, and Unemployment in Patients With Breast Cancer Undergoing Breast Surgery",
+  "official_title": "Potential Impact of the COVID -19 Pandemic on Financial Toxicity in Breast Cancer Surgical Patients: The Impact on Out of Pocket Costs, Lost Wages and Economic Strain",
+  "conditions": [
+   "Breast Ductal Carcinoma In Situ",
+   "COVID-19 Infection",
+   "Hereditary Breast Carcinoma",
+   "Invasive Breast Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Questionnaire Administration"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05902988",
+  "title": "A Phase I/II Study of VLS-1488 in Subjects With Advanced Cancer",
+  "official_title": "A Phase I/II Study of VLS-1488 (an Oral KIF18A Inhibitor) in Subjects With Advanced Cancer",
+  "conditions": [
+   "Advanced Solid Tumor",
+   "High Grade Serous Adenocarcinoma of Ovary",
+   "Squamous Non-small-cell Lung Cancer",
+   "Triple Negative Breast Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Ovarian Carcinosarcoma",
+   "Uterine Carcinosarcoma",
+   "Uterine Serous Carcinoma",
+   "Endometrium Cancer",
+   "Chromosomal Instability"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "VLS-1488"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06073431",
+  "title": "LOTUS-CC: An Observational Research Study to Uncover Subtypes of Cancer Cachexia",
+  "official_title": "Longitudinal Observational Trial to Uncover Subtypes of Cancer Cachexia",
+  "conditions": [
+   "Advanced Colorectal Carcinoma",
+   "Advanced Lung Non-Small Cell Carcinoma",
+   "Advanced Pancreatic Adenocarcinoma",
+   "Stage IV Colorectal Cancer AJCC v8",
+   "Stage IV Lung Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8",
+   "Unresectable Colorectal Carcinoma",
+   "Unresectable Lung Non-Small Cell Carcinoma",
+   "Unresectable Pancreatic Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Computed Tomography"
+   },
+   {
+    "type": "OTHER",
+    "name": "Electronic Health Record Review"
+   },
+   {
+    "type": "OTHER",
+    "name": "Medical Device Usage and Evaluation"
+   },
+   {
+    "type": "OTHER",
+    "name": "Physical Performance Testing"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Positron Emission Tomography"
+   },
+   {
+    "type": "OTHER",
+    "name": "Survey Administration"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05914116",
+  "title": "A Phase 1/2a Study of DB-1311/BNT324 in Advanced/Metastatic Solid Tumors",
+  "official_title": "A Phase 1/2a, Multicenter, Open-Label, First in Human Study to Assess the Safety, Tolerability, Pharmacokinetics, and Preliminary Antitumor Activity of DB-1311 in Subjects With Advanced/Metastatic Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "DB-1311"
+   },
+   {
+    "type": "DRUG",
+    "name": "Lopinavir and Ritonavir Tablets"
+   },
+   {
+    "type": "DRUG",
+    "name": "itraconazole"
+   },
+   {
+    "type": "DRUG",
+    "name": "Enzalutamide"
+   },
+   {
+    "type": "DRUG",
+    "name": "Abiraterone"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07174583",
+  "title": "A Study of IDE849 in Patients With DLL3 Expressing Tumors Including Small Cell Lung Cancer",
+  "official_title": "A Multicenter Study Evaluating the Safety, Efficacy, and Pharmacokinetics of IDE849 in Patients With DLL3-Expressing Tumors Including Small Cell Lung Cancer",
+  "conditions": [
+   "Small-cell Lung Cancer",
+   "Neuroendocrine Carcinomas",
+   "Solid Tumor Show to Express DLL3"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "IDE849"
+   },
+   {
+    "type": "DRUG",
+    "name": "durvalumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "IDE161"
+   },
+   {
+    "type": "DRUG",
+    "name": "Carboplatin"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06687941",
+  "title": "A Study to Evaluate the Tolerability, Safety, and PK of AST-201 in Patients With GPC3-positive Advanced Solid Tumors",
+  "official_title": "A Multi-center, Open-label, Dose Escalation and Expansion, Phase 1 Study to Evaluate the Tolerability, Safety and Pharmacokinetics of AST-201 in Patients With GPC3-positive Advanced Solid Tumors",
+  "conditions": [
+   "Neoplasms",
+   "Carcinoma, Hepatocellular",
+   "Carcinoma, Non-Small-Cell Lung",
+   "Liver Neoplasms"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "AST-201"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05503667",
+  "title": "Neoadjuvant Furmonertinib Plus Bevacizumab or Furmonertinib Monotherapy for Resectable and Potentially Resectable Stage III-IVA EGFR Mutation-Positive Lung Adenocarcinoma",
+  "official_title": "Neoadjuvant Furmonertinib Plus Bevacizumab or Furmonertinib Monotherapy for Resectable and Potentially Resectable Stage III-IVA EGFR Mutation-Positive Lung Adenocarcinoma: A Randomized, Controlled, Open-label, Single-center Phase II Clinical Trial",
+  "conditions": [
+   "Lung Adenocarcinoma Stage III",
+   "Lung Adenocarcinoma Stage IV",
+   "EGFR Gene Mutation"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Furmonertinib"
+   },
+   {
+    "type": "DRUG",
+    "name": "Bevacizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06995898",
+  "title": "The Vanguard Study: Testing a New Way to Screen for Cancer",
+  "official_title": "The Vanguard Study: Testing a New Way to Screen for Cancer",
+  "conditions": [
+   "Bladder Carcinoma",
+   "Breast Carcinoma",
+   "Colorectal Carcinoma",
+   "Esophageal Carcinoma",
+   "Gastric Carcinoma",
+   "Liver Carcinoma",
+   "Lung Carcinoma",
+   "Malignant Solid Neoplasm",
+   "Ovarian Carcinoma",
+   "Pancreatic Carcinoma",
+   "Prostate Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "DEVICE",
+    "name": "Device Usage"
+   },
+   {
+    "type": "OTHER",
+    "name": "Electronic Health Record Review"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Multi-Cancer Detection Test"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Multi-Cancer Detection Test"
+   },
+   {
+    "type": "OTHER",
+    "name": "Questionnaire Administration"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05403554",
+  "title": "A Study of NI-1801 in Patients with Mesothelin Expressing Solid Cancers",
+  "official_title": "A Phase 1, Open-Label, Dose Finding Study of NI-1801, a Bispecific Mesothelin X CD47 Engaging Antibody, As a Single Agent, in Combination with Anti-PD-1 Antibody, and in Combination with Weekly Paclitaxel (Standard of Care) in Patients with Mesothelin Expressing Ovarian, Pancreatic, Non-Small-Cell-Lung and Triple-Negative Breast Cancers",
+  "conditions": [
+   "Epithelial Ovarian Cancer",
+   "Triple Negative Breast Cancer",
+   "Non-squamous Non-small-cell Lung Cancer",
+   "Pancreatic Adenocarcinoma (ductal Adenocarcinoma)",
+   "Endometrioid Ovarian Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Biological NI-1801"
+   },
+   {
+    "type": "DRUG",
+    "name": "NI-1801 in combination with anti-PD1 (Pembrolizumab)"
+   },
+   {
+    "type": "DRUG",
+    "name": "NI-1801 in combination with paclitaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Paclitaxel"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06923761",
+  "title": "EMITT-1 (ERAP Mediated Immunopeptidome Targeting Trial - 1)",
+  "official_title": "A Modular, Multi-part, Multi-arm, Open-label, Phase I/II Study to Evaluate the Safety and Tolerability of GRWD5769 Alone and in Combination With Anticancer Treatments in Patients With Solid Malignancies",
+  "conditions": [
+   "Advanced Solid Malignancy"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Module 1 (GRWD5769 on its own as monotherapy)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Module 2 (GRWD5769 in combination with cemiplimab, administered IV)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06503146",
+  "title": "18F-Fibroblast Activation Protein Inhibitor ([18F]FAPI-74) PET Imaging for Cancer Detection",
+  "official_title": "18F-Fibroblast Activation Protein Inhibitor ([18F]FAPI-74) PET Imaging for Cancer Detection",
+  "conditions": [
+   "Sarcoma",
+   "Small Cell Lung Cancer or Extrapulmonary Neuroendocrine Cancer (EP-NEC)",
+   "Mesothelioma",
+   "Pheochromocytoma/Paraganglioma (PPGL)",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Ovarian Cancer",
+   "Hepatocellular Carcinoma",
+   "Gastric Cancer",
+   "Cholangiocarcinoma",
+   "Bladder Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "[18F]FAPI-74"
+   },
+   {
+    "type": "DRUG",
+    "name": "[18F]FDG"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05579366",
+  "title": "Rinatabart Sesutecan (Rina-S, PRO1184, GEN1184) for Advanced Solid Tumors (GCT1184-01/ PRO1184-001)",
+  "official_title": "Phase 1/2 Study of Rina-S in Patients With Locally Advanced and/or Metastatic Solid Tumors",
+  "conditions": [
+   "High Grade Epithelial Ovarian Cancer",
+   "High Grade Serous Ovarian Cancer",
+   "Primary Peritoneal Carcinoma",
+   "Fallopian Tube Cancer",
+   "Endometrial Cancer",
+   "Non-small Cell Lung Cancer",
+   "Epidermal Growth Factor Receptor (EGFR)-Mutated Non-Small Cell Lung Cancer (NSCLC)",
+   "Mesothelioma",
+   "Breast Adenocarcinoma",
+   "Triple Negative Breast Cancer",
+   "Hormone Receptor-positive/Her2 Negative Breast Cancer",
+   "Platinum-resistant Ovarian Cancer (PROC)",
+   "Platinum Sensitive Ovarian Cancer (PSOC)",
+   "Primary Refractory Ovarian Cancer",
+   "Uterine Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Rina-S"
+   },
+   {
+    "type": "DRUG",
+    "name": "Carboplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Bevacizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT03199651",
+  "title": "Beating Lung Cancer in Ohio Protocol in Improving Survival in Patients With Stage IV Non-Small Cell Lung Cancer",
+  "official_title": "Beating Lung Cancer in Ohio (BLCIO) Protocol",
+  "conditions": [
+   "Cigarette Smoker",
+   "Current Smoker",
+   "Lung Adenocarcinoma",
+   "Squamous Cell Lung Carcinoma",
+   "Stage IV Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Best Practice"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "OTHER",
+    "name": "Laboratory Biomarker Analysis"
+   },
+   {
+    "type": "OTHER",
+    "name": "Medical Chart Review"
+   },
+   {
+    "type": "OTHER",
+    "name": "Quality-of-Life Assessment"
+   },
+   {
+    "type": "OTHER",
+    "name": "Questionnaire Administration"
+   },
+   {
+    "type": "BEHAVIORAL",
+    "name": "Smoking Cessation Intervention"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05652686",
+  "title": "A Study of Peluntamig (PT217) in Patients With Neuroendocrine Carcinomas Expressing DLL3 (the SKYBRIDGE Study)",
+  "official_title": "An Open-label, Multicenter, Dose Escalation, and Dose Expansion Phase 1/2 Study With Peluntamig (PT217) Followed by a Key ChemotherapY and/or Checkpoint Inhibitor ComBination in Patients With NeuRoendocrIne Carcinomas That Are Known to be DLL3 expressinG CancErs (SKYBRIDGE)",
+  "conditions": [
+   "Small Cell Lung Cancer (SCLC)",
+   "Large Cell Neuroendocrine Cancer (LCNEC)",
+   "Neuroendocrine Prostate Cancer (NEPC)",
+   "Gastroenteropancreatic Neuroendocrine Carcinoma (GEP-NEC)",
+   "Neuroendocrine Carcinomas (NEC)",
+   "Extrapulmonary Neuroendocrine Carcinoma (EP-NEC)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Peluntamig (PT217)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Carboplatin + Etoposide"
+   },
+   {
+    "type": "DRUG",
+    "name": "Paclitaxel."
+   },
+   {
+    "type": "DRUG",
+    "name": "Atezolizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Lurbinectedin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Irinotecan (drug)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Topotecan"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05937906",
+  "title": "Clinical Trial Evaluating the Safety and Efficacy of Chemoimmunotherapy Plus Short Course of Mek Inhibitor in First Line of Treatment of Metastatic Non Squamous Non Small Cell Lung Adenocarcinoma With PDL1 < 50 %.",
+  "official_title": "Phase Ib/II Clinical Trial Evaluating the Safety and Efficacy of Chemoimmunotherapy Plus Short Course of Mek Inhibitor in First Line of Treatment of Metastatic Non Squamous Non Small Cell Lung Adenocarcinoma With PDL1 < 50 %.",
+  "conditions": [
+   "Non-Small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Phase I - Mirdametinib - Level 1"
+   },
+   {
+    "type": "DRUG",
+    "name": "Phase II - Mirdametinib"
+   },
+   {
+    "type": "DRUG",
+    "name": "Phase I - Mirdametinib - Level 2"
+   },
+   {
+    "type": "DRUG",
+    "name": "Phase I - Mirdametinib - Level 3"
+   },
+   {
+    "type": "DRUG",
+    "name": "Phase I - Mirdametinib - Level 4"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07636252",
+  "title": "Ex Vivo Drug Response Profiling and Outcome Prediction in Lung Adenocarcinoma",
+  "official_title": "Ex Vivo Drug Response Profiling and Outcome Prediction in Lung Adenocarcinoma",
+  "conditions": [
+   "Lung Adenocarcinoma",
+   "Malignant Pleural Effusions (Mpe)"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "Non-Interventional Study"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06444815",
+  "title": "A Study of VET3-TGI in Patients With Solid Tumors",
+  "official_title": "A Phase 1/1b Study of VET3-TGI Administered Alone and in Combination With Atezolizumab in Patients With Advanced Solid Tumors",
+  "conditions": [
+   "Solid Tumor, Adult",
+   "Microsatellite Stable Colorectal Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Cervical Cancer",
+   "Kidney Cancer",
+   "Renal Cell Carcinoma",
+   "Melanoma Stage IV",
+   "Merkel Cell Carcinoma of Skin",
+   "Mesothelioma",
+   "Non-small Cell Lung Cancer",
+   "Cutaneous Squamous Cell Carcinoma (CSCC)",
+   "Urothelial Carcinoma Bladder",
+   "Squamous Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "VET3-TGI"
+   },
+   {
+    "type": "DRUG",
+    "name": "Atezolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06922591",
+  "title": "Study to Evaluate the Safety, Tolerability & Efficacy of TNG462 in Combination in PDAC & NSCLC Patients",
+  "official_title": "A Phase 1/2, Multicenter, Open-Label Study to Evaluate Safety, Tolerability & Antitumor Activity of TNG462 in Combination With Other Agents in Patients With Pancreatic Cancer With MTAP Loss and Pancreatic or Non-Small Cell Lung Cancer With MTAP Loss & RAS Mutation",
+  "conditions": [
+   "PDAC",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "NSCLC",
+   "RAS Mutation",
+   "MTAP Deletion",
+   "Lung Cancer",
+   "Pancreatic Cancer Metastatic",
+   "Thoracic Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "TNG462"
+   },
+   {
+    "type": "DRUG",
+    "name": "RMC-9805"
+   },
+   {
+    "type": "DRUG",
+    "name": "RMC-6236"
+   },
+   {
+    "type": "DRUG",
+    "name": "mFOLFIRINOX"
+   },
+   {
+    "type": "DRUG",
+    "name": "gemcitabine/nab-paclitaxel"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06265350",
+  "title": "Cryoablation Combined With Cardonilizumab and Bevacizumab in Hepatocellular Carcinoma With Pulmonary Metastases",
+  "official_title": "Cryoablation Combined With Cardonilizumab and Bevacizumab in Hepatocellular Carcinoma With Pulmonary Metastases: A Single-center, Prospective, Randomized Controlled Phase II Study",
+  "conditions": [
+   "Hepatocellular Carcinoma",
+   "Liver Cancer Stage IV",
+   "Pulmonary Metastases",
+   "Cadonilimab",
+   "Bevacizumab",
+   "Cryoablation"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Cadonilimab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Bevacizumab"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Cryoablation"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04198766",
+  "title": "Study of INBRX-106 and INBRX-106 in Combination With Pembrolizumab (Keytruda\u00ae) in Subjects With Locally Advanced or Metastatic Solid Tumors (Hexavalent OX40 Agonist)",
+  "official_title": "An Open-Label, Multicenter, First-in-Human, Dose-Escalation, Multicohort, Phase 1/2 Study of INBRX-106 and INBRX-106 in Combination With Pembrolizumab in Subjects With Locally Advanced or Metastatic Solid Tumors",
+  "conditions": [
+   "Solid Tumor",
+   "Non-Small Cell Lung Cancer",
+   "Head and Neck Cancer",
+   "Melanoma",
+   "Gastric Cancer",
+   "Renal Cell Carcinoma",
+   "Urothelial Carcinoma",
+   "Resectable Non-Small-Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "INBRX-106 - Hexavalent OX40 agonist antibody"
+   },
+   {
+    "type": "DRUG",
+    "name": "pembrolizumab 200 mg"
+   },
+   {
+    "type": "DRUG",
+    "name": "pembrolizumab 400 mg"
+   },
+   {
+    "type": "DRUG",
+    "name": "Carboplatin AUC-5"
+   },
+   {
+    "type": "DRUG",
+    "name": "Carboplatin AUC-6"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pemetrexed 500 mg/m2"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cisplatin 75mg/m2"
+   },
+   {
+    "type": "DRUG",
+    "name": "Paclitaxel 200mg/m2"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nab paclitaxel 100mg/m2"
+   },
+   {
+    "type": "DRUG",
+    "name": "Gemcitabine (1000 mg/m2)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06914128",
+  "title": "A Study of PRMT5 Inhibitor BAY 3713372 in Participants With MTAP-deleted Solid Tumors",
+  "official_title": "A First-in-human Study to Evaluate the Safety, Tolerability and Pharmacokinetics, Pharmacodynamics and Preliminary Clinical Activity of BAY 3713372, a Novel 2nd Generation PRMT5 Inhibitor, in Participants With MTAP-deleted Solid Tumors.",
+  "conditions": [
+   "MTAP-deleted Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BAY 3713372"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05024214",
+  "title": "Phase Ib/II Trial of Envafolimab Plus Lenvatinib for Subjects With Solid Tumors",
+  "official_title": "Envafolimab(KN035) in Combination With Lenvatinib in the Treatment of Advanced Solid Tumors: a Multicenter, Open-label, Phase Ib/II Study",
+  "conditions": [
+   "Solid Tumors",
+   "Non-small Cell Lung Cancer",
+   "Renal Cell Carcinoma",
+   "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Lenvatinib + Envafolimab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Sunitinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05266846",
+  "title": "Pembrolizumab Plus Bevacizumab and Chemotherapy for ALK-rearranged NSCLC With Persistent 5'ALK",
+  "official_title": "Bevacizumab and Chemotherapy With or Without Pembrolizumab in First Line Alectinib Failed ALK-rearranged Advanced Lung Adenocarcinoma Patients With Persistent 5'ALK: A Phase II Randmized Control Trial",
+  "conditions": [
+   "ALK Gene Mutation",
+   "Lung Adenocarcinoma",
+   "Immunotherapy"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab injection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07847710",
+  "title": "Perioperative Retlirafusp Alfa(Anti-PD-L1/TGF-\u03b2 Bifunctional Fusion Protein) Plus Famitinib and GEMOX-Based Hepatic Arterial Infusion Chemotherapy for Locally Advanced Intrahepatic Cholangiocarcinoma: A Multicenter, Single-Arm, Exploratory Phase II Trial",
+  "official_title": "Perioperative Retlirafusp Alfa\uff08Anti-PD-L1/TGF-\u03b2 Bifunctional Fusion Protein\uff09 Plus Famitinib and GEMOX-Based Hepatic Arterial Infusion Chemotherapy for Locally Advanced Intrahepatic Cholangiocarcinoma: A Multicenter, Single-Arm, Exploratory Phase II Trial: H-FROG Feasibility Study",
+  "conditions": [
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "Neoadjuvant Therapy"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Rilvegostomig Alpha"
+   },
+   {
+    "type": "DRUG",
+    "name": "Famitinib malate"
+   },
+   {
+    "type": "DRUG",
+    "name": "Gemcitabine & oxaliplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Capecitabine"
+   },
+   {
+    "type": "DRUG",
+    "name": "S-1"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "hepatic arterial infusion chemotherapy (HAIC)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06179160",
+  "title": "A Study to Evaluate INCB161734 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation",
+  "official_title": "A Phase 1, Open-Label, Multicenter Study of INCB161734 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation",
+  "conditions": [
+   "Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "INCB161734"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cetuximab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Retifanlimab"
+   },
+   {
+    "type": "DRUG",
+    "name": "GEMNabP"
+   },
+   {
+    "type": "DRUG",
+    "name": "mFOLFIRINOX"
+   },
+   {
+    "type": "DRUG",
+    "name": "FOLFOX"
+   },
+   {
+    "type": "DRUG",
+    "name": "FOLFIRI"
+   },
+   {
+    "type": "DRUG",
+    "name": "INCA33890"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07640048",
+  "title": "Adjuvant Therapy for High-Risk Intrahepatic Cholangiocarcinoma: A Real-World Study",
+  "official_title": "A Real-World Study on Postoperative Adjuvant Therapy for Intrahepatic Cholangiocarcinoma Patients With High-Risk Recurrence Factors",
+  "conditions": [
+   "Intrahepatic Cholangiocarcinoma (Icc)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Adebrelimab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Gemcitabine"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cisplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "S-1"
+   },
+   {
+    "type": "DRUG",
+    "name": "Apatinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06303505",
+  "title": "FiH Study to Investigate Safety, PK and Efficacy of the NaPi2b ADC TUB-040 in Patients With PROC or r/r Adenocarcinoma NSCLC",
+  "official_title": "A Multicenter, First-in-human Dose Escalation and Optimization Phase I/IIa Study to Investigate Safety, Tolerability, PK, and Efficacy of the NaPi2b ADC TUB-040 in Patients With Platinum-resistant High-grade Ovarian Cancer (PROC) or r/r Adenocarcinoma Non-small Cell Lung Cancer (NSCLC)",
+  "conditions": [
+   "Ovarian Cancer",
+   "Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "TUB-040"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05288205",
+  "title": "Phase 1/2a Study of JAB-21822 Plus JAB-3312 in Patients With Advanced Solid Tumors Harboring KRAS p.G12C Mutation",
+  "official_title": "A Phase 1/2a Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Antitumor Activity of JAB-21822 in Combination With JAB-3312 in Patients With Advanced Solid Tumors Harboring KRAS p.G12C Mutation",
+  "conditions": [
+   "KRAS P.G12C",
+   "Non-small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "Pancreatic Ductal Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "JAB-21822"
+   },
+   {
+    "type": "DRUG",
+    "name": "JAB-3312"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07744529",
+  "title": "Amivantamab Combined With Intrathecal Pemetrexed for LM From EGFR-Mutated Lung Adenocarcinoma",
+  "official_title": "A Single-Arm Phase II Exploratory Clinical Study of Amivantamab Combined With Intrathecal Pemetrexed for Leptomeningeal Metastasis From EGFR-Mutated Lung Adenocarcinoma",
+  "conditions": [
+   "Leptomeningeal Metastasis From Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Amivantamab+ systemic/ intrathecal Pemetrexed"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04119024",
+  "title": "Gene Modified Immune Cells After Conditioning Regimen for the Treatment of Stage IIIC or IV Melanoma or Metastatic Solid Tumors",
+  "official_title": "Phase I Dose Escalation Study of Systemically Administered IL13Ra2 Chimeric Antigen Receptor (CAR) T Cells After a Nonmyeloablative Conditioning Regimen in Patients With Metastatic Melanoma and Other Solid Tumors",
+  "conditions": [
+   "Metastatic Malignant Solid Neoplasm",
+   "Metastatic Melanoma",
+   "Pathologic Stage IIIC Cutaneous Melanoma AJCC v8",
+   "Pathologic Stage IV Cutaneous Melanoma AJCC v8",
+   "Recurrent Malignant Solid Neoplasm",
+   "Refractory Malignant Solid Neoplasm",
+   "Uveal Melanoma",
+   "Acral Melanoma",
+   "Neuroendocrine Tumors",
+   "Paraganglioma",
+   "Pheochromocytoma",
+   "Adrenocortical Carcinoma",
+   "Pancreatic Neuroendocrine Tumor",
+   "Thyroid Cancer",
+   "Breast Cancer",
+   "Lung Adenocarcinoma",
+   "Head and Neck Squamous Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biopsy"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Computed Tomography"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cyclophosphamide"
+   },
+   {
+    "type": "DRUG",
+    "name": "Fludarabine Phosphate"
+   },
+   {
+    "type": "OTHER",
+    "name": "Fludeoxyglucose F-18"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "IL13Ralpha2-specific Hinge-optimized 4-1BB-co-stimulatory CAR/Truncated CD19-expressing Autologous TN/MEM Cells"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Magnetic Resonance Imaging"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Positron Emission Tomography"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06750185",
+  "title": "Safety and Preliminary Effectiveness of BNT317, an Investigational Therapy for Advanced Solid Tumors",
+  "official_title": "A Phase I/II, First-in-human, Open-label Trial of the Safety, Efficacy, Tolerability, Pharmacokinetics, and Immunogenicity of BNT317 in Participants With Advanced Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "BNT317 DL1"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "BNT317 DL2"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "BNT317 DL3"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "BNT317 DL4"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "BNT317 DL5"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "BNT317 DL6"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "BNT317 selected DLA"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "BNT317 selected DLB"
+   },
+   {
+    "type": "DRUG",
+    "name": "SoC chemotherapy 1"
+   },
+   {
+    "type": "DRUG",
+    "name": "SoC chemotherapy 2"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07063888",
+  "title": "A Prospective Phase II Study of Postoperative Concurrent Chemoradiotherapy in Patients With Intrahepatic Cholangiocarcinoma",
+  "official_title": "A Prospective Phase II Study of Adjuvant Concurrent Chemoradiotherapy With Simultaneous Integrated Boost Following Hepatectomy for Intrahepatic Cholangiocarcinoma With Narrow Margin or Nodal Involvement",
+  "conditions": [
+   "Intrahepatic Cholangiocarcinoma (Icc)",
+   "Adjuvant Chemoradiotherapy",
+   "Narrow Margin",
+   "Lymph Node Involvement"
+  ],
+  "interventions": [
+   {
+    "type": "RADIATION",
+    "name": "Adjuvant Concurrent Chemoradiotherapy with Simultaneous Integrated Boost"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07080242",
+  "title": "Evaluating BL-M14D1 in Subjects With Locally Advanced or Metastatic Small Cell Lung Cancer and Neuroendocrine Tumors",
+  "official_title": "A Phase 1 Open-Label Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of BL-M14D1 in Subjects With Locally Advanced or Metastatic Small Cell Lung Cancer and Other Neuroendocrine Neoplasms",
+  "conditions": [
+   "Small Cell Lung Cancer Metastatic or Locally Advanced",
+   "Neuroendocrine Cancer",
+   "Metastatic Neuroendocrine Prostate Cancer",
+   "Metastatic Advanced Poorly Differentiated Gastroenteropancreatic Neuroendocrine Carcinoma",
+   "Metastatic Advanced Merkel Cell Carcinoma",
+   "Locally Advanced Large Cell Neuroendocrine Carcinoma of the Lung",
+   "Locally Advanced Extrapulmonary Neuroendocrine Carcinoma",
+   "Locally Advanced Neuroendocrine Prostate Cancer",
+   "Locally Advanced Poorly Differentiated Gastroenteropancreatic Neuroendocrine",
+   "Locally Advanced Merkel Cell Carcinoma",
+   "Metastatic Large Cell Neuroendocrine Carcinoma of the Lung"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BL-M14D1"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05665504",
+  "title": "Using Biomarkers for Diagnosis, Risk Stratification of Post -Treatment Recurrence and Long-Term Surveillance of Lung Cancer",
+  "official_title": "Using Biomarkers for Diagnosis, Risk Stratification of Post -Treatment Recurrence and Long-Term Surveillance of Lung Cancer",
+  "conditions": [
+   "Lung; Node",
+   "Adenocarcinoma of Lung"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "DetermaRX"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06126406",
+  "title": "Clinical Study of CEA Targeting Chimeric Antigen Receptor T Lymphocytes\uff08CAR-T\uff09 for CEA Positive Advanced Malignant Solid Tumors",
+  "official_title": "Chimeric Antigen Receptor T Lymphocytes (CAR-T) Targeting CEA in the Treatment of CEA Positive Clinical Study of Advanced Malignant Solid Tumors",
+  "conditions": [
+   "Gastric Cancer",
+   "Colon Cancer",
+   "Rectal Cancer",
+   "Breast Cancer",
+   "Lung Cancer",
+   "Esophagus Cancer",
+   "Cholangiocarcinoma",
+   "Pancreas Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "CEA-targeted CAR-T cells"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "CEA-targeted CAR-T cells"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07348211",
+  "title": "First in Human Study of SIM0610 in Solid Tumors",
+  "official_title": "An Open-Label, Multicenter, First-in-Human Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Antitumor Activity of SIM0610 in Adult Subjects With Locally Advanced/Metastatic Solid Tumors",
+  "conditions": [
+   "Advanced Solid Tumours",
+   "Non-Small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "SIM0610 for Injection"
+   },
+   {
+    "type": "DRUG",
+    "name": "SIM0610 for Injection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05059444",
+  "title": "ORACLE: Observation of ResiduAl Cancer With Liquid Biopsy Evaluation",
+  "official_title": "ORACLE: Observation of ResiduAl Cancer With Liquid Biopsy Evaluation",
+  "conditions": [
+   "Bladder Carcinoma",
+   "Ureter Carcinoma",
+   "Renal Pelvis Carcinoma",
+   "Non-small Cell Lung Cancer",
+   "Invasive Breast Carcinoma",
+   "Cutaneous Melanoma",
+   "Esophageal Carcinoma",
+   "Gastroesophageal Junction Carcinoma",
+   "Gastric Adenocarcinoma",
+   "Pancreatic Adenocarcinoma",
+   "Squamous Cell Carcinoma of the Head and Neck",
+   "Epithelial Ovarian Carcinoma",
+   "Fallopian Tube Carcinoma",
+   "Endometrial Carcinoma",
+   "Renal Cell Carcinoma",
+   "Rectal Adenocarcinoma",
+   "Colon Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "Guardant Reveal"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07012759",
+  "title": "Pleural Effusion Biomarkers in Lung Adenocarcinoma Patients",
+  "official_title": "Novel Pleural Effusion Biomarkers Screening and Evaluation in Lung Adenocarcinoma Patients",
+  "conditions": [
+   "Biomarkers",
+   "Lung Adenocarcinoma",
+   "Pleural Effusion"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "biomarkers"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05469022",
+  "title": "Neoadjuvant Lazertinib Therapy in EGFR-Mutation Positive Lung Adenocarcinoma Detected by BALF Liquid Biopsy",
+  "official_title": "A Phase II, Single-Center, Single-Arm, Prospective Study of Neoadjuvant Lazertinib Therapy in Resectable EGFR-Mutation Positive Lung Adenocarcinoma Patients Detected by Broncho-alveolar Lavage Fluid(BALF) Liquid Biopsy",
+  "conditions": [
+   "Non Small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Neoadjuvant lazertinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06040541",
+  "title": "Study of RMC-9805 in Participants With KRAS G12D-Mutant Solid Tumors",
+  "official_title": "Phase 1/1b, Multicenter, Open-Label, Study of RMC 9805 in Participants With Advanced KRASG 12D-Mutant Solid Tumors",
+  "conditions": [
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (CRC)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Advanced Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "RMC-9805"
+   },
+   {
+    "type": "DRUG",
+    "name": "RMC-6236"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07006727",
+  "title": "Phase I Study of [225Ac]Ac-ETN029 in Patients With Advanced DLL3-expressing Solid Tumors",
+  "official_title": "A Phase I, Open-label, Multi-center Study to Evaluate the Safety, Tolerability, Dosimetry, and Preliminary Activity of [225Ac]Ac-ETN029 in Patients With Advanced DLL3-expressing Solid Tumors",
+  "conditions": [
+   "Small Cell Lung Carcinoma",
+   "Large Cell Neuroendocrine Carcinoma of the Lung",
+   "Neuroendocrine Prostate Cancer",
+   "Gastroenteropancreatic Neuroendocrine Carcinoma",
+   "Non-prostate Extrapulmonary Neuroendocrine Carcinoma",
+   "Cervical Neuroendocrine Carcinoma",
+   "Thymic Neuroendocrine Carcinoma",
+   "Genitourinary Neuroendocrine Carcinoma",
+   "Unknown Primary Neuroendocrine Carcinomas",
+   "Merkel Cell Carcinoma",
+   "Medullary Thyroid Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "225Ac-ETN029"
+   },
+   {
+    "type": "DRUG",
+    "name": "111In-ETN029"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07776353",
+  "title": "Understanding New Cachexia Subtypes Through Observational Epidemiological Research",
+  "official_title": "Understanding New Cachexia Subtypes Through Observational Epidemiological Research",
+  "conditions": [
+   "Advanced Colorectal Carcinoma",
+   "Advanced Lung Non-Small Cell Carcinoma",
+   "Advanced Pancreatic Adenocarcinoma",
+   "Stage IV Colorectal Cancer AJCC v8",
+   "Stage IV Lung Cancer AJCC v8",
+   "Stage IV Pancreatic Cancer AJCC v8",
+   "Unresectable Colorectal Carcinoma",
+   "Unresectable Lung Non-Small Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Computed Tomography"
+   },
+   {
+    "type": "OTHER",
+    "name": "Electronic health record review"
+   },
+   {
+    "type": "OTHER",
+    "name": "Medical Device Usage and Evaluation"
+   },
+   {
+    "type": "OTHER",
+    "name": "Physical functions assessments"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Positron Emission Tomography (PET)"
+   },
+   {
+    "type": "OTHER",
+    "name": "Survey Administration"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07106827",
+  "title": "A Study of GV20-0251 in Advanced or Refractory Solid Tumors",
+  "official_title": "Single Arm Clinical Study Protocol of GV20-0251 in the Treatment of Advanced/Refractory Solid Tumors",
+  "conditions": [
+   "HCC - Hepatocellular Carcinoma",
+   "Cholangiocarcinoma",
+   "Melanoma",
+   "NSCLC (Non-small Cell Lung Cancer)",
+   "Pancreatic Ductal Adenocarcinoma",
+   "HNSCC",
+   "Endometrial Cancer",
+   "Testicular Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "GV20-0251"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06561685",
+  "title": "A Study of LY4050784 in Participants With Advanced or Metastatic Solid Tumors",
+  "official_title": "An Open-label, Multicenter Study of LY4050784, a Selective SMARCA2/BRM Inhibitor, in Advanced Solid Tumor Malignancies With SMARCA4/BRG1 Alterations",
+  "conditions": [
+   "Metastatic Solid Tumor",
+   "Advanced Solid Tumor",
+   "Non-small Cell Lung Cancer",
+   "SMARCA4-Deficient Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "LY4050784"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cisplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Carboplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pemetrexed"
+   },
+   {
+    "type": "DRUG",
+    "name": "Paclitaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nab paclitaxel"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07808164",
+  "title": "ENPP1/cGAS (EG) and FAP Expression Profiles in Solid Tumors: An Immunohistochemical Study in a Vietnamese Cohort",
+  "official_title": "ENPP1/cGAS (EG) and FAP Expression Profiles in Solid Tumors: An Immunohistochemical Study in a Vietnamese Cohort",
+  "conditions": [
+   "HCC - Hepatocellular Carcinoma",
+   "CRC (Colorectal Cancer)",
+   "Gastric Carcinoma",
+   "Breast Cancer",
+   "Lung Cancer",
+   "Endometrial Cancer",
+   "Melanoma (Skin Cancer)",
+   "Pancreatic Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "OTHER",
+    "name": "IHC analysis for ENPP1, cGAS, and FAP expression"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07169734",
+  "title": "A Study to Investigate ALE.P03 as Monotherapy in Adult Patients With Selected Advanced or Metastatic CLDN1+ Solid Tumors",
+  "official_title": "A Phase I/II, Open-label, Multicenter Study of ALE.P03 (Claudin-1 Targeted Antibody-drug Conjugate) as a Monotherapy in Adult Patients With Selected Advanced or Metastatic CLDN1+ Solid Tumors",
+  "conditions": [
+   "Cervical Squamous Cell Carcinoma",
+   "Squamous Non-small-cell Lung Cancer",
+   "Colorectal Cancer",
+   "Intrahepatic Cholangiocarcinoma",
+   "Urothelial Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ALE.P03"
+   },
+   {
+    "type": "DRUG",
+    "name": "ALE.P03"
+   },
+   {
+    "type": "DRUG",
+    "name": "ALE.P03"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05768178",
+  "title": "DETERMINE Trial Treatment Arm 05: Vemurafenib in Combination With Cobimetinib in Adult Patients With BRAF Positive Cancers.",
+  "official_title": "DETERMINE (Determining Extended Therapeutic Indications for Existing Drugs in Rare Molecularly Defined Indications Using a National Evaluation Platform Trial): An Umbrella-Basket Platform Trial to Evaluate the Efficacy of Targeted Therapies in Rare Adult, Paediatric and Teenage/Young Adult (TYA) Cancers With Actionable Genomic Alterations, Including Common Cancers With Rare Actionable Alterations. Treatment Arm 05: Vemurafenib in Combination With Cobimetinib in Adult Patients With BRAF Positive Cancers.",
+  "conditions": [
+   "Haematological Malignancy",
+   "Melanoma",
+   "Thyroid Cancer, Papillary",
+   "Ovarian Neoplasms",
+   "Colorectal Neoplasms",
+   "Laryngeal Neoplasms",
+   "Carcinoma, Non-Small-Cell Lung",
+   "Glioma",
+   "Multiple Myeloma",
+   "Erdheim-Chester Disease",
+   "Thyroid Carcinoma, Anaplastic",
+   "Solid Tumour"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Vemurafenib"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cobimetinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06066138",
+  "title": "A Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+  "official_title": "A Feasibility Phase I Study of Therapeutic Drug Monitoring-Based Atezolizumab Dosing",
+  "conditions": [
+   "Locally Advanced Alveolar Soft Part Sarcoma",
+   "Metastatic Alveolar Soft Part Sarcoma",
+   "Locally Advanced Non Small Cell Lung Cancer",
+   "Metastatic Non Small Cell Lung Cancer",
+   "Locally Advanced Small Cell Lung Cancer",
+   "Metastatic Small Cell Lung Cancer",
+   "Locally Advanced Hepatocellular Carcinoma",
+   "Metastatic Hepatocellular Carcinoma",
+   "Locally Advanced Melanoma",
+   "Metastatic Melanoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Atezolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06349642",
+  "title": "Immune Checkpoint Inhibitor Response in Solid Tumors Using a Live Tumor Diagnostic Platform",
+  "official_title": "Observational Basket Trial to Collect Tissue to Develop and Train a Live Tumor Diagnostic Platform",
+  "conditions": [
+   "Early Stage Triple-Negative Breast Carcinoma",
+   "Metastatic Bladder Urothelial Carcinoma",
+   "Metastatic Cervical Carcinoma",
+   "Metastatic Clear Cell Renal Cell Carcinoma",
+   "Metastatic Colorectal Carcinoma",
+   "Metastatic Endometrial Carcinoma",
+   "Metastatic Esophageal Carcinoma",
+   "Metastatic Liver Carcinoma",
+   "Metastatic Lung Non-Small Cell Carcinoma",
+   "Metastatic Malignant Skin Neoplasm",
+   "Metastatic Malignant Solid Neoplasm",
+   "Resectable Lung Non-Small Cell Carcinoma",
+   "Early Stage Lung Non-Small Cell Carcinoma",
+   "Resectable Malignant Solid Neoplasm",
+   "Resectable Triple-Negative Breast Carcinoma",
+   "Stage III Renal Cell Cancer AJCC v8",
+   "Stage IV Cervical Cancer AJCC v8",
+   "Stage IV Renal Cell Cancer AJCC v8",
+   "Stage IV Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8",
+   "Recurrent Cervical Carcinoma",
+   "Recurrent Colorectal Carcinoma",
+   "Recurrent Endometrial Carcinoma",
+   "Recurrent Esophageal Carcinoma",
+   "Recurrent Liver Carcinoma",
+   "Recurrent Lung Non-Small Cell Carcinoma",
+   "Recurrent Malignant Skin Neoplasm",
+   "Recurrent Malignant Solid Neoplasm"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Tissue Collection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06717295",
+  "title": "The CCANED-CIPHER Study: Early Cancer Detection and Treatment Response Monitoring Using AI-Based Platelet and Immune Cell Transcriptomic Profiling",
+  "official_title": "The CCANED-CIPHER Study: Early Cancer Detection and Treatment Response Monitoring Using AI-Based Platelet and Immune Cell Transcriptomic Profiling",
+  "conditions": [
+   "Brest Cancer",
+   "Lung Cancer (NSCLC)",
+   "Pancreatic Cancer, Adult",
+   "Prostate Cancers",
+   "Ovarian Cancer",
+   "Colorectal Cancer",
+   "Glioblastoma (GBM)",
+   "Liver Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "DiNanoQ: A multi-cancer early detection (MCED) blood test"
+   },
+   {
+    "type": "OTHER",
+    "name": "DiNanoTrack: Therapeutic Response Monitoring Blood Test"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04789486",
+  "title": "Nano-SMART: Nanoparticles With MR Guided SBRT in Centrally Located Lung Tumors and Pancreatic Cancer",
+  "official_title": "Nano-SMART: An Adaptive Phase I-II Trial of AGuIX Gadolinium-based Nanoparticles With Stereotactic Magnetic Resonance-guided Adaptive Radiation Therapy for Centrally Located Lung Tumors and Locally Advanced Unresectable Pancreatic Ductal Adenocarcinoma",
+  "conditions": [
+   "Non-small Cell Lung Cancer",
+   "Advanced Pancreatic Adenocarcinoma",
+   "Unresectable Pancreatic Cancer",
+   "Ductal Adenocarcinoma of the Pancreas"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "AGuIX"
+   },
+   {
+    "type": "RADIATION",
+    "name": "Radiotherapy"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07223047",
+  "title": "A Study to Evaluate the Safety, Tolerability, and Efficacy of BMS-986523 Alone and in Combination With Anti-Cancer Agents in Participants With Advanced Solid Malignancies",
+  "official_title": "A Phase 1/2a, Open-Label, Multicenter Study to Assess the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Preliminary Efficacy of BMS-986523 As Monotherapy and in Combination With Anti-Cancer Agents in Participants With Advanced Solid Malignancies",
+  "conditions": [
+   "Advanced Solid Malignancies",
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (CRC)",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "BMS-986523"
+   },
+   {
+    "type": "DRUG",
+    "name": "Gemcitabine"
+   },
+   {
+    "type": "DRUG",
+    "name": "Nab-Paclitaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cetuximab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07458347",
+  "title": "A Phase 1 Dose-escalation Trial of KST-6051 in Participants With Advanced Solid Tumors With Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) Mutation",
+  "official_title": "A First-in-human Phase 1 Dose-escalation Study Evaluating the Safety, Pharmacokinetics, Pharmacodynamics, and Preliminary Efficacy of KST-6051 in Patients With Advanced or Metastatic Solid Tumors With a KRAS Mutation",
+  "conditions": [
+   "KRAS-mutant Non-small Cell Lung Cancer (NSCLC)",
+   "KRAS-mutant Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "KRAS-mutant Colorectal Cancer (CRC)",
+   "Other KRAS-mutant Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "KST-6051"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07224464",
+  "title": "The Sarah Nanotechnology System for Treatment of Advanced Metastatic Solid Tumors Using Hyperthermia.",
+  "official_title": "Open Label Feasibility Dose Escalation Study to Evaluate the Safety of Sarah Nanotechnology System, With Alternating Magnetic Field (AMF) Application in Patients With Advanced Metastatic Solid Tumors.",
+  "conditions": [
+   "Metastatic Solid Tumors",
+   "Stage 4 Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DEVICE",
+    "name": "The Sarah Nanotechnology System - intended to deliver thermal energy to malignant cells for the purpose of thermal destruction of these cells in patients with advanced metastatic solid tumors."
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT03556228",
+  "title": "VMD-928 Monotherapy and in Combination With Pembrolizumab to Treat TrkA Overexpression Driven Solid Tumors or Lymphoma",
+  "official_title": "A Phase 1/2 Open-Label, Multiple-Dose, Dose-Escalation Study to Investigate the Safety, Pharmacokinetics, and Pharmacodynamics of VMD-928 as Monotherapy and in Combination With Pembrolizumab in Subjects With Solid Tumors or Lymphoma",
+  "conditions": [
+   "Head and Neck Carcinoma",
+   "Adenoid Cystic Carcinoma",
+   "Lung Cancer",
+   "Non-Small Cell Lung Cancer",
+   "Pancreatic Cancer",
+   "Mesothelioma",
+   "Esophageal Cancer",
+   "Any Solid Tumors Progressed After a Prior Immunotherapy",
+   "Head and Neck Squamous Cell Carcinoma",
+   "Head and Neck Squamous Cell Carcinoma HNSCC",
+   "Salivary Gland Carcinomas",
+   "Head and Neck Cancers - Salivary Gland",
+   "Head and Neck Cancers - Nasopharyngeal",
+   "Head and Neck Cancers - Throat",
+   "Small Cell Lung Cancer ( SCLC )",
+   "Lung Cancer (Locally Advanced or Metastatic)",
+   "Head and Neck Cancers - Tonsils",
+   "Head and Neck Cancers Hypopharynx",
+   "Head and Neck Cancers Larynx",
+   "Head and Neck Cancers Lip",
+   "Head and Neck Cancers Nasopharynx",
+   "Head and Neck Cancers Oral Cavity",
+   "Head and Neck Cancers",
+   "Head and Neck Cancers Oropharynx",
+   "Head and Neck Cancers Trachea"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "VMD-928 100 mg Tablet"
+   },
+   {
+    "type": "DRUG",
+    "name": "VMD-928 Tablet and Pembrolizumab (200 mg)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07440290",
+  "title": "DETERMINE Trial Treatment Arm 07: Dabrafenib in Combination With Trametinib in Adult, Paediatric and Teenage/Young Adult Patients With BRAF V600 Mutation-Positive Cancers.",
+  "official_title": "DETERMINE (Determining Extended Therapeutic Indications for Existing Drugs in Rare Molecularly Defined Indications Using a National Evaluation Platform Trial): An Umbrella-Basket Platform Trial to Evaluate the Efficacy of Targeted Therapies in Rare Adult, Paediatric and Teenage/Young Adult (TYA) Cancers With Actionable Genomic Alterations, Including Common Cancers With Rare Actionable Alterations. Treatment Arm 07: Dabrafenib in Combination With Trametinib in Adult, Paediatric and TYA Patients With BRAF V600 Mutation-Positive Cancers.",
+  "conditions": [
+   "Haematological Malignancy",
+   "Malignant Neoplasm",
+   "Lymphoproliferative Disorders",
+   "Neoplasms by Histologic Type",
+   "Neoplasms by Site",
+   "Gastrointestinal Cancer",
+   "Non-Melanoma Skin Cancer (NMSC)",
+   "Langerhans Cell Histiocytosis (LCH)",
+   "Cancer",
+   "Erdheim-Chester Disease",
+   "Thyroid Carcinoma, Papillary",
+   "Ovarian Neoplasms",
+   "Colorectal Neoplasms",
+   "Laryngeal Neoplasms",
+   "Carcinoma, Non-Small Cell-Lung",
+   "Glioma",
+   "Multiple Myeloma",
+   "Thyroid Carcinoma, Anaplastic",
+   "Solid Tumour",
+   "Pancreatic Diseases"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Dabrafenib"
+   },
+   {
+    "type": "DRUG",
+    "name": "Trametinib"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06943820",
+  "title": "AK129 Combination Therapy for Advanced Solid Tumors",
+  "official_title": "A Phase Ib/II Study of Anti-PD-1/LAG-3 Bispecific Antibody AK129 Combinations in Advanced Solid Tumors",
+  "conditions": [
+   "Non-small Cell Lung Cancer Stage IIIB/IV",
+   "Head and Neck Squamous Cell Carcinoma (HNSCC)",
+   "Colorectal Adenocarcinoma",
+   "Advanced Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "AK129(dose 1)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pemetrexed"
+   },
+   {
+    "type": "DRUG",
+    "name": "Paclitaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Carboplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "AK129(dose 2)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Docetaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cis-platinum"
+   },
+   {
+    "type": "DRUG",
+    "name": "5-FU (5-fluorouracil)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Cetuximab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Paclitaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Docetaxel"
+   },
+   {
+    "type": "DRUG",
+    "name": "Chemotherapy"
+   },
+   {
+    "type": "DRUG",
+    "name": "AK129(RP2D)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Penpulimab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05837767",
+  "title": "A Study of Radiation Therapy to Treat Solid Tumor Cancer That Has Spread to Soft Tissue",
+  "official_title": "A Pilot Study of Spatially Fractionated Radiation Therapy in Patients With Extra-Cranial Soft Tissue Metastases",
+  "conditions": [
+   "Invasive Ductal Breast Carcinoma",
+   "Invasive Ductal Breast Carcinoma Stage IV",
+   "Lobular Breast Carcinoma",
+   "Lobular Breast Carcinoma Stage IV",
+   "Non Small Cell Lung Cancer",
+   "NSCLC",
+   "Gastrointestinal Cancer",
+   "Gastrointestinal Squamous Cell Cancer",
+   "Gastrointestinal Adenocarcinoma",
+   "Pancreatic Cancer",
+   "Bladder Cancer",
+   "Renal Cell Carcinoma",
+   "Melanoma",
+   "Sarcoma",
+   "Metastatic Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "RADIATION",
+    "name": "Palliative radiotherapy"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06835569",
+  "title": "A Study to Learn About Study Medicine ALTA3263 in Adults With Advanced Solid Tumors With KRAS Mutations",
+  "official_title": "A Phase 1/1b Multiple Cohort Trial of ALTA3263 in Patients With Advanced Solid Tumors With KRAS Mutations",
+  "conditions": [
+   "Cancer",
+   "PDAC - Pancreatic Ductal Adenocarcinoma",
+   "NSCLC (Non-small Cell Lung Cancer)",
+   "CRC (Colorectal Cancer)",
+   "Advanced Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ALTA3263"
+   },
+   {
+    "type": "DRUG",
+    "name": "cetuximab"
+   },
+   {
+    "type": "DRUG",
+    "name": "mFOLFOX6"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pemetrexed + Cisplatin /Carboplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "mFOLFIRINOX"
+   },
+   {
+    "type": "DRUG",
+    "name": "GnP"
+   },
+   {
+    "type": "DRUG",
+    "name": "Midazolam"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT03093688",
+  "title": "Clinical Safty and Efficacy Study of Infusion of iNKT Cells and CD8+T Cells in Patients With Advanced Solid Tumor",
+  "official_title": "Phace I and II Study of Immunotherapy Strategy Used iNKT Cells and CD8+T Cells in Patients With Advanced Tumor",
+  "conditions": [
+   "Non-small Cell Lung Cancer",
+   "Small Cell Lung Cancer",
+   "Pancreas Cancer",
+   "Hepatocellular Carcinoma",
+   "Gastric Cancer",
+   "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "Infusion of iNKT cells and CD8+T cells"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07649629",
+  "title": "Impact of Liquid Biopsy on the Therapeutic Pathway for Lung Cancer: Advancing the Molecular Characterization of Patients With Advanced Lung Adenocarcinoma by Integrating Liquid Biopsy Into the Early Stages of the Diagnostic and Therapeutic Pathway",
+  "official_title": "Impatto Della Biopsia Liquida Sul Percorso Terapeutico Del Tumore al Polmone: Anticipare la Caratterizzazione Molecolare Dei Pazienti Con Adenocarcinoma Del Polmone in Stadio Avanzato Integrando la Biopsia Liquida Nella Fase Iniziale Del Percorso Diagnostico-terapeutico",
+  "conditions": [
+   "Advanced Non-small Cell Lung Cancer (NSCLC)"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "Plasma-based liquid biopsy"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06181812",
+  "title": "Pathogenic Variants in Genes Associated With Lung Adenocarcinoma",
+  "official_title": "Prevalence of Pathogenic or Likely Pathogenic Germline Variants in Cancer Predisposition Genes Among Patients With Lung Adenocarcinoma",
+  "conditions": [
+   "Lung Adenocarcinoma"
+  ],
+  "interventions": []
+ },
+ {
+  "nct_id": "NCT05269381",
+  "title": "Personalized Neoantigen Peptide-Based Vaccine in Combination With Pembrolizumab for Treatment of Advanced Solid Tumors",
+  "official_title": "A Phase I/II Study of Personalized Neoantigen Peptide-Based Vaccine in Combination With Pembrolizumab in Advanced Solid Tumors (PNeoVCA)",
+  "conditions": [
+   "Anatomic Stage III Breast Cancer AJCC v8",
+   "Anatomic Stage IIIA Breast Cancer AJCC v8",
+   "Anatomic Stage IIIB Breast Cancer AJCC v8",
+   "Anatomic Stage IIIC Breast Cancer AJCC v8",
+   "Anatomic Stage IV Breast Cancer AJCC v8",
+   "Clinical Stage III Cutaneous Melanoma AJCC v8",
+   "Clinical Stage III Gastric Cancer AJCC v8",
+   "Clinical Stage III Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Clinical Stage III Merkel Cell Carcinoma AJCC v8",
+   "Clinical Stage IV Cutaneous Melanoma AJCC v8",
+   "Clinical Stage IV Gastric Cancer AJCC v8",
+   "Clinical Stage IV Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Clinical Stage IV Merkel Cell Carcinoma AJCC v8",
+   "Clinical Stage IVA Gastric Cancer AJCC v8",
+   "Clinical Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Clinical Stage IVB Gastric Cancer AJCC v8",
+   "Clinical Stage IVB Gastroesophageal Junction Adenocarcinoma AJCC v8",
+   "Locally Advanced Cervical Carcinoma",
+   "Locally Advanced Endometrial Carcinoma",
+   "Locally Advanced Gastric Adenocarcinoma",
+   "Locally Advanced Gastroesophageal Junction Adenocarcinoma",
+   "Locally Advanced Head and Neck Squamous Cell Carcinoma",
+   "Locally Advanced Hepatocellular Carcinoma",
+   "Locally Advanced Lung Non-Small Cell Carcinoma",
+   "Locally Advanced Malignant Solid Neoplasm",
+   "Locally Advanced Melanoma",
+   "Locally Advanced Merkel Cell Carcinoma",
+   "Locally Advanced Renal Cell Carcinoma",
+   "Locally Advanced Skin Squamous Cell Carcinoma",
+   "Locally Advanced Triple-Negative Breast Carcinoma",
+   "Locally Advanced Unresectable Breast Carcinoma",
+   "Locally Advanced Unresectable Cervical Carcinoma",
+   "Locally Advanced Unresectable Gastric Adenocarcinoma",
+   "Locally Advanced Unresectable Gastroesophageal Junction Adenocarcinoma",
+   "Locally Advanced Unresectable Renal Cell Carcinoma",
+   "Locally Advanced Urothelial Carcinoma",
+   "Metastatic Cervical Carcinoma",
+   "Metastatic Endometrial Carcinoma",
+   "Metastatic Gastric Adenocarcinoma",
+   "Metastatic Gastroesophageal Junction Adenocarcinoma",
+   "Metastatic Head and Neck Squamous Cell Carcinoma",
+   "Metastatic Hepatocellular Carcinoma",
+   "Metastatic Lung Non-Small Cell Carcinoma",
+   "Metastatic Malignant Solid Neoplasm",
+   "Metastatic Melanoma",
+   "Metastatic Merkel Cell Carcinoma",
+   "Metastatic Renal Cell Carcinoma",
+   "Metastatic Skin Squamous Cell Carcinoma",
+   "Metastatic Triple-Negative Breast Carcinoma",
+   "Metastatic Urothelial Carcinoma",
+   "Skin Squamous Cell Carcinoma",
+   "Stage III Cervical Cancer AJCC v8",
+   "Stage III Hepatocellular Carcinoma AJCC v8",
+   "Stage III Lung Cancer AJCC v8",
+   "Stage III Renal Cell Cancer AJCC v8",
+   "Stage IIIA Cervical Cancer AJCC v8",
+   "Stage IIIA Hepatocellular Carcinoma AJCC v8",
+   "Stage IIIA Lung Cancer AJCC v8",
+   "Stage IIIA Uterine Corpus Cancer AJCC v8",
+   "Stage IIIB Cervical Cancer AJCC v8",
+   "Stage IIIB Hepatocellular Carcinoma AJCC v8",
+   "Stage IIIB Lung Cancer AJCC v8",
+   "Stage IIIB Uterine Corpus Cancer AJCC v8",
+   "Stage IIIC Lung Cancer AJCC v8",
+   "Stage IIIC Uterine Corpus Cancer AJCC v8",
+   "Stage IIIC1 Uterine Corpus Cancer AJCC v8",
+   "Stage IIIC2 Uterine Corpus Cancer AJCC v8",
+   "Stage IV Cervical Cancer AJCC v8",
+   "Stage IV Cutaneous Squamous Cell Carcinoma of the Head and Neck AJCC v8",
+   "Stage IV Hepatocellular Carcinoma AJCC v8",
+   "Stage IV Lung Cancer AJCC v8",
+   "Stage IV Renal Cell Cancer AJCC v8",
+   "Stage IVA Cervical Cancer AJCC v8",
+   "Stage IVA Hepatocellular Carcinoma AJCC v8",
+   "Stage IVA Lung Cancer AJCC v8",
+   "Stage IVA Uterine Corpus Cancer AJCC v8",
+   "Stage IVB Cervical Cancer AJCC v8",
+   "Stage IVB Hepatocellular Carcinoma AJCC v8",
+   "Stage IVB Lung Cancer AJCC v8",
+   "Stage IVB Uterine Corpus Cancer AJCC v8",
+   "Triple-Negative Breast Carcinoma",
+   "Unresectable Cervical Carcinoma",
+   "Unresectable Endometrial Carcinoma",
+   "Unresectable Gastric Adenocarcinoma",
+   "Unresectable Gastroesophageal Junction Adenocarcinoma",
+   "Unresectable Head and Neck Squamous Cell Carcinoma",
+   "Unresectable Hepatocellular Carcinoma",
+   "Unresectable Lung Non-Small Cell Carcinoma",
+   "Unresectable Malignant Solid Neoplasm",
+   "Unresectable Melanoma",
+   "Unresectable Merkel Cell Carcinoma",
+   "Unresectable Renal Cell Carcinoma",
+   "Unresectable Skin Squamous Cell Carcinoma",
+   "Unresectable Triple-Negative Breast Carcinoma",
+   "Unresectable Urothelial Carcinoma",
+   "Breast Adenocarcinoma",
+   "Stage III Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8",
+   "Stage IV Uterine Corpus Carcinoma or Carcinosarcoma AJCC v8",
+   "Stage III Head and Neck Cutaneous Squamous Cell Carcinoma AJCC v8",
+   "Stage IV Head and Neck Cutaneous Squamous Cell Carcinoma AJCC v8",
+   "Invasive Breast Lobular Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Cyclophosphamide"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "Neoantigen Peptide Vaccine"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "Pembrolizumab"
+   },
+   {
+    "type": "BIOLOGICAL",
+    "name": "Sargramostim"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Biospecimen Collection"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Biopsy"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Computed Tomography"
+   },
+   {
+    "type": "PROCEDURE",
+    "name": "Magnetic Resonance Imaging"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06895031",
+  "title": "Study of JYP0015 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS",
+  "official_title": "A Multi-center, Open-label, Phase I/II Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Antitumor Activity of JYP0015 in Advanced Solid Tumors With RAS Mutation",
+  "conditions": [
+   "Solid Tumor",
+   "Pancreatic Ductal Adenocarcinoma (PDAC)",
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Colorectal Cancer (CRC)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "JYP0015"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06899789",
+  "title": "Long-term Follow-up of Checkpoint Inhibitors-induced Ileo-colitis",
+  "official_title": "Long-term Follow-up of Checkpoint Inhibitors-induced Ileo-colitis",
+  "conditions": [
+   "Immune Checkpoint Inhibitors-induced Colitis",
+   "Advanced Melanoma Skin Cancer, Non-small Cell Lung Carcinoma, Kidney Adenocarcinoma",
+   "Ileo-colitis",
+   "Immune Mediated-colitis"
+  ],
+  "interventions": []
+ },
+ {
+  "nct_id": "NCT04147078",
+  "title": "Personalized DC Vaccine for Postoperative Cancer",
+  "official_title": "Adjuvant Treatment in Cancer Patients with Neoantigen-primed DC Vaccine : a Single-arm, Open-label, Prospective Clinical Trial",
+  "conditions": [
+   "Gastric Cancer",
+   "Hepatocellular Carcinoma",
+   "Non-Small-Cell Lung Cancer",
+   "Colon Rectal Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "DC vaccine subcutaneous administration"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05985655",
+  "title": "Study to Assess GTAEXS617 in Participants With Advanced Solid Tumors",
+  "official_title": "A Phase 1/2 Open-label Multicenter Study to Assess the Safety, Pharmacokinetics, and Anti-tumor Activity of GTAEXS617 in Patients With Advanced Solid Tumors",
+  "conditions": [
+   "Head and Neck Squamous Cell Carcinoma (HNSCC)",
+   "Pancreatic Adenocarcinoma",
+   "Non-small Cell Lung Cancer (NSCLC)",
+   "Platinum-resistant High-grade Epithelial Ovarian, Primary Peritoneal, or Fallopian Tube Cancers (HGSOC)",
+   "Hormone Receptor Positive [HR+] and Human Epidermal Growth Factor Receptor 2 Negative [HER2-] Breast Carcinoma",
+   "Triple Negative Breast Cancer (TNBC)"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "GTAEXS617"
+   },
+   {
+    "type": "DRUG",
+    "name": "SoC"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06131840",
+  "title": "A Study of SGN-CEACAM5C in Adults With Advanced Solid Tumors",
+  "official_title": "An Open-label Phase 1 Study to Investigate PF-08046050 (SGN-CEACAM5C) in Adults With Advanced Solid Tumors",
+  "conditions": [
+   "Colorectal Neoplasms",
+   "Carcinoma, Non-Small-Cell Lung",
+   "Stomach Neoplasms",
+   "Pancreatic Ductal Adenocarcinoma",
+   "Gastroesophageal Junction Adenocarcinoma",
+   "Small Cell Lung Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "PF-08046050"
+   },
+   {
+    "type": "DRUG",
+    "name": "bevacizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "5-Fluorouracil (5-FU)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Oxaliplatin"
+   },
+   {
+    "type": "DRUG",
+    "name": "Leucovorin (LV)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07670312",
+  "title": "Evaluation of XYA02 in Patients With Advanced Solid Tumors",
+  "official_title": "A Phase 1b/2, Multicenter, Non-randomized, Open-label, Multiple Dose First- In-Human Study of XYA02 in Patients With Advanced Solid Tumors",
+  "conditions": [
+   "MUC1-expressing Advanced, Relapsed and/or Refractory Solid Tumors",
+   "Non-Small Cell Lung Cancer",
+   "Ovarian Cancer",
+   "GEJ Adenocarcinoma",
+   "Colorectal Cancer",
+   "Pancreatic Adenocarcinoma",
+   "Gastric Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "XYA02"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04527419",
+  "title": "SLND or Not in cT1 GGO Invasive Lung Adenocarcinoma (ECTOP-1009)",
+  "official_title": "Systematically Mediastinal Lymph Node Dissection or Not in Stage T1 Ground-glass Dominated Invasive Lung Adenocarcinoma: a Multi-center, Prospective Clinical Trial",
+  "conditions": [
+   "Carcinoma, Non-Small-Cell Lung"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "No mediastinal lymph node dissection"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07284186",
+  "title": "First-in-Human Study of PLX-61639 in Locally Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1, First-in-Human Study of the SMARCA2 Degrader, PLX-61639, in Patients With SMARCA4-Mutated Locally Advanced or Metastatic Solid Tumors",
+  "conditions": [
+   "Esophageal Squamous Cell Carcinoma",
+   "Gastric Adenocarcinoma",
+   "Gastric Squamous Cell Carcinoma",
+   "Gastroesophageal Junction (GEJ) Adenocarcinoma",
+   "Metastatic Solid Tumor",
+   "Non-Small Cell Lung Carcinoma",
+   "Esophageal Adenocarcinoma",
+   "SMARCA4 Mutation",
+   "Gastroesophageal Junction Squamous Cell Carcinoma",
+   "Advanced Solid Tumor"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "PLX-61639"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07483983",
+  "title": "Study Investigating ASP3082 in Patients With Metastatic/Locally Advanced Non-small-cell Lung Cancer (NSCLC) and Pancreatic Ductal Adenocarcinoma (PDAC), With Biomarker Analysis to Characterize Response/Resistance",
+  "official_title": "Phase 2, Multicenter, Open Label, Platform Study Investigating ASP3082 in Patients With Metastaic/Locally Non-Small-Cell Lung Cancer (NSCLC) and Pancreatic Ductal Adenocarcinoma (PDAC), With Biomarker Analysis to Characterize Response/Resistance",
+  "conditions": [
+   "Metastatic/Locally Advanced Non-Small-Cell Lung Cancer",
+   "Metastatic/Locally Pancreatic Ductal Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "ASP3082"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT05717803",
+  "title": "Segmentectomy for Ground Glass-dominant Invasive Lung Cancer (ECTOP-1012)",
+  "official_title": "Segmentectomy for Ground Glass-dominant Invasive Lung Cancer With Size of 2-3cm: a Single-arm, Multi-center, Phase III Trial",
+  "conditions": [
+   "Segmentectomy",
+   "Lung Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "PROCEDURE",
+    "name": "Segmentectomy"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07070362",
+  "title": "Digital Early Warning System for Acute Lung Injury in Liver Surgery",
+  "official_title": "The Construction of a Digital Intelligence Early Warning System for the Whole Process of Acute Lung Injury in Liver Surgery Based on Cardiopulmonary Interaction Characteristics",
+  "conditions": [
+   "Acute Lung Injury(ALI)",
+   "Liver Cirrhosis",
+   "ARDS, Human",
+   "MASLD",
+   "MASLD/MASH (Metabolic Dysfunction-Associated Steatotic Liver Disease / Metabolic Dysfunction-Associated Steatohepatitis)",
+   "NAFLD (Nonalcoholic Fatty Liver Disease)",
+   "Liver Cancer, Adult"
+  ],
+  "interventions": []
+ },
+ {
+  "nct_id": "NCT07094113",
+  "title": "AMG 410 Alone and in Combination With Other Agents in Participants With KRAS Altered Advanced or Metastatic Solid Tumors",
+  "official_title": "A Phase 1/1b Study Evaluating the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Efficacy of AMG 410 Alone and in Combination With Other Agents in Participants With KRAS Altered Advanced or Metastatic Solid Tumors",
+  "conditions": [
+   "KRAS Altered Advanced or Metastatic Solid Tumors"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "AMG 410"
+   },
+   {
+    "type": "DRUG",
+    "name": "Pembrolizumab"
+   },
+   {
+    "type": "DRUG",
+    "name": "Panitumumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07284121",
+  "title": "A Study to Evaluate Patient-Reported Satisfaction, Effectiveness, and Safety of Atezolizumab in Participants Treated in Routine Clinical Practice",
+  "official_title": "A Non-Interventional, Multicenter, Multicohort Study to Evaluate Patient-Reported Satisfaction, Effectiveness, and Safety of Subcutaneous Atezolizumab in Participants Treated in Routine Clinical Practice",
+  "conditions": [
+   "Lung Cancer, Hepatocellular Carcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Atezolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07705035",
+  "title": "DBC-664 in Adult Patients With Solid Tumors",
+  "official_title": "A Phase 1a/1b Open Label, Multicenter, Dose Escalation and Dose Expansion Study of the Safety, Pharmacokinetics, Pharmacodynamics, and Activity of DBC-664 in Adult Patients With Locally Advanced or Metastatic Solid Tumors",
+  "conditions": [
+   "Malignant Germ Cell Tumor",
+   "Lung Adenocarcinoma",
+   "Gastric/Esophageal/Gastroesophageal Junction (GEJ) Adenocarcinoma",
+   "Urothelial Carcinoma",
+   "Endometrial Adenocarcinoma",
+   "Ovarian Adenocarcinoma"
+  ],
+  "interventions": [
+   {
+    "type": "BIOLOGICAL",
+    "name": "DBC-664"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT07801508",
+  "title": "A Study of [68Ga]Ga-DWJ155 in Adult Patients With Solid Tumors",
+  "official_title": "A Phase I, Open Label Study to Evaluate the Imaging Characteristics, Safety, Biodistribution and Pharmacokinetics of [68Ga]Ga-DWJ155 in Adult Patients With Solid Tumors",
+  "conditions": [
+   "Advanced Gastroesophageal Adenocarcinoma",
+   "Advanced Breast Cancer",
+   "Triple-negative Breast Cancer",
+   "Advanced Non-small Cell Lung Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "DIAGNOSTIC_TEST",
+    "name": "[68Ga]Ga-DWJ155"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT06523582",
+  "title": "Genetic Bases of Neuroendocrine Neoplasms in Mexican Patients",
+  "official_title": "Genetic Bases of Neuroendocrine Neoplasms in Mexican Patients",
+  "conditions": [
+   "Neuroendocrine Neoplasm",
+   "Neuroendocrine Neoplasm of Gastrointestinal Tract",
+   "Neuroendocrine Neoplasm of Lung",
+   "Thymic Neuroendocrine Neoplasm",
+   "Neuroendocrine Tumor of Pancreas",
+   "Gastrointestinal Stromal Tumors",
+   "Medullary Thyroid Cancer",
+   "Paraganglioma",
+   "Pheochromocytoma",
+   "Primary Hyperparathyroidism",
+   "Pituitary Tumor",
+   "Multiple Endocrine Neoplasia Type 1",
+   "Multiple Endocrine Neoplasia Type 2",
+   "Multiple Endocrine Neoplasia Type 4",
+   "Carney Complex",
+   "Carney Stratakis Dyad",
+   "Carney Triad",
+   "Cowden Syndrome",
+   "DICER1 Syndrome",
+   "Li-Fraumeni Syndrome",
+   "Lynch Syndrome",
+   "Von Hippel-Lindau Disease",
+   "Familial Isolated Pituitary Adenoma",
+   "X-Linked Acrogigantism",
+   "Neurofibromatosis 1",
+   "Tuberous Sclerosis"
+  ],
+  "interventions": []
+ },
+ {
+  "nct_id": "NCT07423169",
+  "title": "Partial Tumor Irradiation and Immunotherapy for Unresectable Lung Cancer",
+  "official_title": "Rechallenge Using Combined Partial Tumor Irradiation and Immune Checkpoint Inhibitor-based Immunotherapy for Unresectable Lung Adenocarcinoma: a Pilot Study",
+  "conditions": [
+   "Lung Adenocarcinoma",
+   "Bulky Tumors",
+   "Unresectable Cancer"
+  ],
+  "interventions": [
+   {
+    "type": "RADIATION",
+    "name": "Partial Tumor Irradiation"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT03600883",
+  "title": "Sotorasib in Advanced Solid Tumors With KRAS G12C Mutation (CodeBreaK 100)",
+  "official_title": "A Phase 1/2, Study Evaluating the Safety, Tolerability, PK, and Efficacy of AMG 510 in Subjects With Solid Tumors With a Specific KRAS Mutation",
+  "conditions": [
+   "Advanced Solid Tumors",
+   "Non-Small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "KRAS G12C"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Sotorasib (AMG 510)"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT04303780",
+  "title": "Adagrasib in Previously Treated Patients With NSCLC and KRAS G12C Mutation (KRYSTAL-1)",
+  "official_title": "Phase 1/2 Study of MRTX849 in Patients With Cancer Having a KRAS G12C Mutation",
+  "conditions": [
+   "Non-Small Cell Lung Cancer",
+   "Colorectal Cancer",
+   "KRAS G12C Mutation"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Adagrasib (MRTX849)"
+   },
+   {
+    "type": "DRUG",
+    "name": "Adagrasib + Pembrolizumab"
+   }
+  ]
+ },
+ {
+  "nct_id": "NCT03778229",
+  "title": "Osimertinib in EGFR-Mutant NSCLC With Acquired Resistance",
+  "official_title": "A Phase II Study of Osimertinib Continuation Beyond Progression in EGFR Mutation Positive Non-Small Cell Lung Cancer",
+  "conditions": [
+   "Non-Small Cell Lung Cancer",
+   "EGFR Mutation"
+  ],
+  "interventions": [
+   {
+    "type": "DRUG",
+    "name": "Osimertinib"
+   }
+  ]
+ }
+]

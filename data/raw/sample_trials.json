@@ -1,0 +1,122 @@
+[
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03600883",
+        "briefTitle": "Sotorasib in Advanced Solid Tumors With KRAS G12C Mutation (CodeBreaK 100)",
+        "officialTitle": "A Phase 1/2, Study Evaluating the Safety, Tolerability, PK, and Efficacy of AMG 510 in Subjects With Solid Tumors With a Specific KRAS Mutation"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "lastUpdatePostDateStruct": {"date": "2026-06-15"},
+        "startDateStruct": {"date": "2018-08-06"}
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": ["PHASE1", "PHASE2"]
+      },
+      "conditionsModule": {
+        "conditions": ["Advanced Solid Tumors", "Non-Small Cell Lung Cancer", "Colorectal Cancer", "KRAS G12C"]
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {"type": "DRUG", "name": "Sotorasib (AMG 510)"}
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Subject has provided informed consent prior to initiation of any study specific activities/procedures.\n* Male or female, aged >=18 years.\n* Pathologically documented, locally-advanced or metastatic malignancy with KRAS p.G12C mutation identified through molecular testing.\n* Subjects with active brain metastases from non-brain tumors are eligible if they have been treated and are without evidence of progression or hemorrhage for at least 4 weeks. Anticonvulsants and steroids are allowed if being administered at stable doses for at least 30 days before study day 1.\n* Measurable disease per Response Evaluation Criteria in Solid Tumors 1.1 (RECIST 1.1) criteria.\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of <=2.\n* Life expectancy of >3 months, in the opinion of the investigator.\n* Adequate organ function.\n\nExclusion Criteria:\n\n* Active infection requiring systemic therapy.\n* Known positive test for human immunodeficiency virus, hepatitis C virus, chronic active hepatitis B infection.\n* Myocardial infarction within 6 months of study day 1, symptomatic congestive heart failure (New York Heart Association > class II), unstable angina, or unstable cardiac arrhythmia requiring medication.\n* Gastrointestinal (GI) tract disease causing the inability to take oral medication, malabsorption syndrome, requirement for intravenous alimentation, uncontrolled inflammatory GI disease.\n* Prior therapy with a direct and selective KRAS G12C inhibitor.\n* Anti-tumor therapy within 28 days of study day 1.\n* Therapeutic or palliative radiation therapy within 4 weeks of study day 1.\n* Currently receiving treatment in another investigational device or drug study.\n* Female subjects of childbearing potential unwilling to use an acceptable method(s) of effective contraception during treatment.",
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "N/A",
+        "healthyVolunteers": false,
+        "stdAges": ["ADULT", "OLDER_ADULT"]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {"country": "United States", "city": "Boston"},
+          {"country": "Australia", "city": "Melbourne"}
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT04303780",
+        "briefTitle": "Adagrasib in Previously Treated Patients With NSCLC and KRAS G12C Mutation (KRYSTAL-1)",
+        "officialTitle": "Phase 1/2 Study of MRTX849 in Patients With Cancer Having a KRAS G12C Mutation"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "lastUpdatePostDateStruct": {"date": "2026-07-20"},
+        "startDateStruct": {"date": "2019-01-15"}
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": ["PHASE1", "PHASE2"]
+      },
+      "conditionsModule": {
+        "conditions": ["Non-Small Cell Lung Cancer", "Colorectal Cancer", "KRAS G12C Mutation"]
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {"type": "DRUG", "name": "Adagrasib (MRTX849)"},
+          {"type": "DRUG", "name": "Adagrasib + Pembrolizumab"}
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of unresectable or metastatic NSCLC.\n* Presence of KRAS G12C mutation in tumor tissue.\n* Prior treatment with at least one systemic anti-cancer therapy for advanced disease including an anti-PD-1/PD-L1 antibody (unless contraindicated).\n* Adequate organ function.\n* ECOG performance status of 0 or 1.\n* Life expectancy of at least 3 months.\n* Age >= 18 years.\n\nExclusion Criteria:\n\n* Active brain metastases (patients with treated, stable brain metastases are eligible).\n* Prior treatment with a KRAS G12C-specific inhibitor.\n* Recent major surgery within 4 weeks.\n* History of intestinal disease or major gastric surgery that would impair drug absorption.\n* Serious cardiac illness including congestive heart failure NYHA class III or IV.\n* Pregnant or breastfeeding.",
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "N/A",
+        "healthyVolunteers": false,
+        "stdAges": ["ADULT", "OLDER_ADULT"]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {"country": "United States", "city": "New York"},
+          {"country": "Australia", "city": "Sydney"}
+        ]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT03778229",
+        "briefTitle": "Osimertinib in EGFR-Mutant NSCLC With Acquired Resistance",
+        "officialTitle": "A Phase II Study of Osimertinib Continuation Beyond Progression in EGFR Mutation Positive Non-Small Cell Lung Cancer"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "lastUpdatePostDateStruct": {"date": "2026-05-10"},
+        "startDateStruct": {"date": "2019-03-01"}
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": ["PHASE2"]
+      },
+      "conditionsModule": {
+        "conditions": ["Non-Small Cell Lung Cancer", "EGFR Mutation"]
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {"type": "DRUG", "name": "Osimertinib"}
+        ]
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed NSCLC.\n* Documented EGFR mutation known to be associated with EGFR TKI sensitivity (including exon 19 deletion, L858R, T790M).\n* Prior treatment with a first- or second-generation EGFR TKI.\n* Radiographic progression on prior EGFR TKI therapy.\n* Age >= 18 years.\n* ECOG performance status 0-2.\n* Measurable disease per RECIST v1.1.\n* Adequate hematologic, hepatic, and renal function.\n\nExclusion Criteria:\n\n* Symptomatic CNS metastases requiring immediate local therapy.\n* Interstitial lung disease or pneumonitis.\n* Prior treatment with osimertinib or other third-generation EGFR TKI.\n* Concurrent malignancy requiring active therapy.\n* Serious cardiac disease including QTc > 470 ms.",
+        "sex": "ALL",
+        "minimumAge": "18 Years",
+        "maximumAge": "N/A",
+        "healthyVolunteers": false,
+        "stdAges": ["ADULT", "OLDER_ADULT"]
+      },
+      "contactsLocationsModule": {
+        "locations": [
+          {"country": "United States", "city": "Houston"}
+        ]
+      }
+    }
+  }
+]

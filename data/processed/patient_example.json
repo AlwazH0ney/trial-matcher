@@ -1,0 +1,59 @@
+{
+  "patient_id": "TCGA-05-4418-derived",
+  "diagnosis": "Lung adenocarcinoma",
+  "stage": "IV",
+  "age_years": 63,
+  "sex": "MALE",
+  "ecog": 1,
+  "smoking_status": "former",
+  "histology": "adenocarcinoma",
+  "brain_metastases": false,
+  "prior_malignancy": null,
+  "mutations": [
+    {
+      "gene": "KRAS",
+      "protein_change": "p.G12C",
+      "variant_class": "Missense_Mutation",
+      "tumor_vaf": 0.41,
+      "is_hotspot": true,
+      "evidence_score": 5
+    },
+    {
+      "gene": "STK11",
+      "protein_change": "p.G56V",
+      "variant_class": "Missense_Mutation",
+      "tumor_vaf": 0.39,
+      "is_hotspot": false,
+      "evidence_score": 3
+    },
+    {
+      "gene": "KEAP1",
+      "protein_change": "p.F280Y",
+      "variant_class": "Missense_Mutation",
+      "tumor_vaf": 0.43,
+      "is_hotspot": false,
+      "evidence_score": 3
+    },
+    {
+      "gene": "RBM10",
+      "protein_change": "p.G17Wfs*4",
+      "variant_class": "Frame_Shift_Ins",
+      "tumor_vaf": 0.42,
+      "is_hotspot": false,
+      "evidence_score": 4
+    }
+  ],
+  "tmb": 4.6,
+  "pd_l1_tps": 15.0,
+  "msi_status": "MSS",
+  "treatment_history": [
+    {
+      "line": 1,
+      "drug": "carboplatin + pemetrexed + pembrolizumab",
+      "start_date": "2025-11-10",
+      "end_date": "2026-06-20",
+      "best_response": "PD",
+      "discontinuation_reason": "progression"
+    }
+  ]
+}
