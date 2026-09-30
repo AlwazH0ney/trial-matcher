@@ -7,3 +7,10 @@ data/processed/llm_log.jsonl
 data/processed/*.tmp
 data/processed/candidates*.json
 data/processed/evaluated*.json
+
+# Full LLM call logs are bulky and regenerable; baselines keep a 10-line sample
+reports/*/llm_log.jsonl
+reports/**/llm_log.jsonl
+# Raw Colab downloads (curated copies live in reports/baselines/)
+notebooks/*_results.zip
+reports/colab_run/

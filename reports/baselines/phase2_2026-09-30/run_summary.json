@@ -1,0 +1,531 @@
+{
+  "baseline": "phase2_2026-09-30",
+  "run": {
+    "generated_at": "2026-09-30T07:05:08+00:00",
+    "as_of": "2026-09-30",
+    "code_commit": "01be495 (trial_matcher/ package unchanged since dd9e483)",
+    "prompt_version": "3fe32ef28a11",
+    "patient_id": "TCGA-05-4418-derived",
+    "calibration": null,
+    "verification": null,
+    "abstention": null
+  },
+  "model": {
+    "local": {
+      "name": "phi4",
+      "served_by": "ollama 0.35.0",
+      "params": "14.66B",
+      "quantization": "Q4_K_M",
+      "blob_sha256": "fd7b6731c33c57f61767612f56517460ec2d1e2e5a3f0163e0eb3d8d8cb5df20",
+      "temperature": 0.0,
+      "seed": 0,
+      "json_schema_constrained": true
+    },
+    "api": null
+  },
+  "hardware": {
+    "platform": "Google Colab",
+    "gpu": "Tesla T4 (compute 7.5, 14.6 GiB)",
+    "gpu_offload": "41/41 layers"
+  },
+  "corpus": {
+    "trials_file": "data/processed/trials_parsed.json",
+    "corpus_size": 3,
+    "n_candidates": 3,
+    "top_k": 50,
+    "n_criteria": 43,
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "retrieval_query": "Lung adenocarcinoma stage IV non-small cell lung cancer NSCLC KRAS G12C KRAS G12C mutation STK11 KEAP1 RBM10 previously treated advanced metastatic"
+  },
+  "speed": {
+    "mean_criterion_s": 3.279,
+    "median_criterion_s": 3.043,
+    "p95_criterion_s": 4.602,
+    "max_criterion_s": 5.577,
+    "wall_time_s": 141.0,
+    "criteria_per_minute": 18.3,
+    "input_tokens": 34820,
+    "output_tokens": 2038
+  },
+  "routing": {
+    "band": [
+      0.35,
+      0.75
+    ],
+    "routing_band_rate": 0.0698,
+    "api_routing_rate": 0.0,
+    "n_routed_api": 0,
+    "n_api_unavailable": 3,
+    "api_enabled": false
+  },
+  "quality": {
+    "n_parse_errors": 0,
+    "n_repaired": 0,
+    "n_unknown_criteria": 19,
+    "trials_by_status": {
+      "eligible": 0,
+      "unresolved": 2,
+      "ineligible": 1
+    },
+    "ece": null,
+    "ece_note": "no ground-truth labels yet; computed from Phase 3 annotations"
+  },
+  "ranking": [
+    {
+      "rank": 1,
+      "nct_id": "NCT04303780",
+      "status": "unresolved",
+      "score": 0.8625,
+      "pass_fail_unknown": [
+        9,
+        0,
+        4
+      ],
+      "blocking": []
+    },
+    {
+      "rank": 2,
+      "nct_id": "NCT03600883",
+      "status": "unresolved",
+      "score": 0.7316,
+      "pass_fail_unknown": [
+        7,
+        0,
+        10
+      ],
+      "blocking": []
+    },
+    {
+      "rank": 3,
+      "nct_id": "NCT03778229",
+      "status": "ineligible",
+      "score": 0.5882,
+      "pass_fail_unknown": [
+        6,
+        2,
+        5
+      ],
+      "blocking": [
+        "inclusion#1",
+        "inclusion#2"
+      ]
+    }
+  ],
+  "known_failures": [
+    {
+      "nct_id": "NCT03778229",
+      "criterion": "exclusion#3",
+      "text": "Concurrent malignancy requiring active therapy.",
+      "got": {
+        "eligible": false,
+        "confidence": 1.0
+      },
+      "expected": {
+        "eligible": null
+      },
+      "mode": "overconfident on a fact the profile does not record (prior malignancy: not recorded)"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "criterion": "inclusion#3",
+      "text": "Radiographic progression on prior EGFR TKI therapy.",
+      "got": {
+        "eligible": null,
+        "confidence": 0.9
+      },
+      "expected": {
+        "eligible": false
+      },
+      "mode": "failed to compose facts (no EGFR mutation + no prior EGFR TKI -> provably not met)"
+    }
+  ],
+  "criterion_verdicts": [
+    {
+      "nct_id": "NCT04303780",
+      "kind": "inclusion",
+      "idx": 0,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "inclusion",
+      "idx": 1,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "inclusion",
+      "idx": 2,
+      "eligible": true,
+      "confidence": 0.95,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "inclusion",
+      "idx": 3,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "inclusion",
+      "idx": 4,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "inclusion",
+      "idx": 5,
+      "eligible": null,
+      "confidence": 0.7,
+      "passes": null,
+      "route": "api_unavailable"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "inclusion",
+      "idx": 6,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "exclusion",
+      "idx": 0,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "exclusion",
+      "idx": 1,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "exclusion",
+      "idx": 2,
+      "eligible": false,
+      "confidence": 0.9,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "exclusion",
+      "idx": 3,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "exclusion",
+      "idx": 4,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT04303780",
+      "kind": "exclusion",
+      "idx": 5,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "inclusion",
+      "idx": 0,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "inclusion",
+      "idx": 1,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "inclusion",
+      "idx": 2,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "inclusion",
+      "idx": 3,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "inclusion",
+      "idx": 4,
+      "eligible": null,
+      "confidence": 0.7,
+      "passes": null,
+      "route": "api_unavailable"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "inclusion",
+      "idx": 5,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "inclusion",
+      "idx": 6,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "inclusion",
+      "idx": 7,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 0,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 1,
+      "eligible": null,
+      "confidence": 1.0,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 2,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 3,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 4,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 5,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 6,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 7,
+      "eligible": false,
+      "confidence": 0.9,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03600883",
+      "kind": "exclusion",
+      "idx": 8,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "inclusion",
+      "idx": 0,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "inclusion",
+      "idx": 1,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": false,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "inclusion",
+      "idx": 2,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": false,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "inclusion",
+      "idx": 3,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "inclusion",
+      "idx": 4,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "inclusion",
+      "idx": 5,
+      "eligible": true,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "inclusion",
+      "idx": 6,
+      "eligible": null,
+      "confidence": 0.7,
+      "passes": null,
+      "route": "api_unavailable"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "inclusion",
+      "idx": 7,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "exclusion",
+      "idx": 0,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "exclusion",
+      "idx": 1,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "exclusion",
+      "idx": 2,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "exclusion",
+      "idx": 3,
+      "eligible": false,
+      "confidence": 1.0,
+      "passes": true,
+      "route": "local"
+    },
+    {
+      "nct_id": "NCT03778229",
+      "kind": "exclusion",
+      "idx": 4,
+      "eligible": null,
+      "confidence": 0.9,
+      "passes": null,
+      "route": "local"
+    }
+  ]
+}
